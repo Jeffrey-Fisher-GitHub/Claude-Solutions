@@ -1,0 +1,49 @@
+# Source: Pennsylvania Turnpike Commission, "2023 Interchange Average Annual Daily Traffic (AADT)"
+# https://files.paturnpike.com/production/docs/default-source/resources/traffic-reports/traffic-reports-2023/2023-interchange-aadt.pdf
+# road: ML = Mainline (I-76 / I-276, runs East-West), NE = Northeast Extension (I-476, runs North-South)
+# milepost: the interchange number is its milepost. The Mid-County junction (A20) sits at mainline MP ~334 and NE Extension MP 20.
+# NOTE: in the published table, the A20 Mid-County row repeats the H43 Delaware River Bridge values exactly. Verify against the PDF before relying on it.
+road,id,name,milepost,entryAADT,exitAADT,pctTrucks
+ML,T2,Gateway,2,11916,11916,27
+ML,T30,Warrendale,30,14841,15206,27
+ML,T39,Butler Valley,39,5856,5929,11
+ML,T48,Allegheny Valley,48,8647,8550,15
+ML,T57,Pittsburgh,57,16761,16435,12
+ML,T67,Irwin,67,7945,8247,11
+ML,T75,New Stanton,75,11767,11765,39
+ML,T91,Donegal,91,2633,2586,16
+ML,T110,Somerset,110,2938,2756,29
+ML,T146,Bedford,146,3451,3688,36
+ML,T161,Breezewood,161,7717,7348,36
+ML,T180,Ft. Littleton,180,812,854,36
+ML,T189,Willow Hill,189,567,609,31
+ML,T201,Blue Mountain,201,861,940,39
+ML,T226,Carlisle,226,6641,7432,49
+ML,T236,Gettysburg Pike,236,4873,5478,19
+ML,T242,Harrisburg West,242,8026,6324,26
+ML,T247,Harrisburg East,247,11598,11779,22
+ML,T266,Lebanon-Lancaster,266,4588,4641,17
+ML,T286,Reading,286,8730,8568,22
+ML,T298,Morgantown,298,7960,7828,18
+ML,T312,Downingtown,312,8230,8284,13
+ML,T320,S.R. 29,320,4915,4700,12
+ML,T326,Valley Forge,326,30082,31291,12
+ML,T333,Norristown,333,9875,10269,8
+JCT,A20,Mid-County,334,41540,41833,13
+ML,T339,Fort Washington,339,24127,24398,8
+ML,T340,Virginia Drive,340,5701,1814,5
+ML,T343,Willow Grove,343,23146,25985,11
+ML,T351,Bensalem,351,30579,24391,13
+ML,T352,Street Road,352,1696,5285,10
+ML,T353,Neshaminy Falls,353,22558,24144,20
+ML,H43,Delaware River Bridge,359,41540,41833,13
+NE,A31,Lansdale,31,16344,16175,12
+NE,A44,Quakertown,44,8663,9203,16
+NE,A56,Lehigh Valley,56,19470,19065,24
+NE,A74,Mahoning Valley,74,4614,4788,13
+NE,A87,S.R. 903,87,2784,2866,11
+NE,A95,Pocono,95,5786,5789,32
+NE,A105,Wilkes-Barre,105,3562,3320,11
+NE,A115,Wyoming Valley,115,5357,5469,31
+NE,A122,Keyser Avenue,122,3874,3884,27
+NE,A131,Clarks Summit,131,3489,3462,24
