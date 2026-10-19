@@ -1,0 +1,731 @@
+day,date,weather,fish_kg,coconuts,fruit_kg,roots_kg,garden_kg,eaten_pct,store_days,logs,trees_felled,trees_planted,avg_health,avg_morale,sick_or_injured,headline
+1,2026-11-01,cloudy,3.8,14,5.4,0.0,0.0,80,0.7,4,2,0,87,48,0,Flight 1207 ditched on the reef at dawn. All 12 made it to shore.
+2,2026-11-02,cloudy,2.5,24,4.4,0.0,0.0,73,0.8,3,2,0,85,51,1,"Salvaged the galley, life rafts, a crash axe and the first-aid kits from the wreck."
+3,2026-11-03,rain,2.2,27,7.6,0.0,0.0,81,0.9,3,2,0,82,51,1,"Palm-frond lean-to: 70% built. 2 kg fish, 27 coconuts."
+4,2026-11-04,rain,3.0,36,7.2,0.0,0.0,83,1.2,3,2,0,80,51,1,"Palm-frond lean-to: 70% built. 3 kg fish, 36 coconuts."
+5,2026-11-05,rain,3.5,38,10.6,0.0,0.0,93,1.5,3,2,0,78,51,0,Kofi is back on his feet.
+6,2026-11-06,rain,4.3,24,10.3,0.0,0.0,95,1.6,2,2,0,76,51,0,"Palm-frond lean-to: 90% built. 4 kg fish, 24 coconuts."
+7,2026-11-07,clear,5.0,37,13.1,0.0,0.0,100,1.9,2,2,0,77,57,0,One week. Lean-to finished; the signal fire burns every night.
+8,2026-11-08,cloudy,1.9,39,9.6,0.0,0.0,84,2.3,1,2,0,77,58,0,"Fishing lines, spears and a net: 24% built. 2 kg fish, 39 coconuts."
+9,2026-11-09,rain,2.8,28,10.3,0.0,0.0,89,2.4,1,2,0,77,58,0,"Fishing lines, spears and a net: 24% built. 3 kg fish, 28 coconuts."
+10,2026-11-10,cloudy,3.1,31,10.8,0.0,0.0,92,2.6,1,2,0,78,58,0,"Fishing lines, spears and a net: 48% built. 3 kg fish, 31 coconuts."
+11,2026-11-11,cloudy,4.0,30,10.4,0.0,0.0,94,2.7,1,2,0,78,58,0,"Fishing lines, spears and a net: 73% built. 4 kg fish, 30 coconuts."
+12,2026-11-12,rain,2.4,23,6.1,0.0,0.0,77,2.7,1,2,0,77,62,0,"Finished: Fishing lines, spears and a net."
+13,2026-11-13,rain,7.0,30,9.3,0.0,0.0,100,2.9,1,2,0,77,62,0,"Latrine and wash area: 45% built. 7 kg fish, 30 coconuts."
+14,2026-11-14,rain,3.9,9,2.1,0.0,0.0,72,2.5,1,2,0,74,61,1,Sam and Lucy reached the 412 m summit. The island is about 3 km long. No other land in sight.
+15,2026-11-15,rain,6.1,28,8.3,0.0,0.0,97,2.6,1,2,0,74,61,1,"Latrine and wash area: 77% built. 6 kg fish, 28 coconuts."
+16,2026-11-16,cloudy,6.9,38,11.9,0.0,0.0,100,3.0,1,2,0,74,61,1,Tomas gashed his hand splitting logs. Nia stitched it with the first-aid kit.
+17,2026-11-17,rain,5.1,13,3.7,0.0,0.0,81,2.8,1,2,0,72,61,1,"Latrine and wash area: 96% built. 5 kg fish, 13 coconuts."
+18,2026-11-18,cloudy,6.8,33,6.6,0.0,0.0,96,3.0,1,2,0,73,61,2,Elena is laid up with a fever.
+19,2026-11-19,rain,4.1,21,7.5,0.0,0.0,89,2.9,1,2,0,73,61,2,"Latrine and wash area: 96% built. 4 kg fish, 21 coconuts."
+20,2026-11-20,clear,8.3,37,11.5,0.0,0.0,100,3.4,0,2,0,74,64,1,Finished: Latrine and wash area.
+21,2026-11-21,rain,5.4,18,3.2,0.0,0.0,80,3.2,3,3,0,72,64,1,"Salvaged emergency beacon: 5% built. 5 kg fish, 18 coconuts."
+22,2026-11-22,clear,10.0,37,8.9,0.0,0.0,100,3.6,6,4,0,73,64,0,Tomas is back on his feet.
+23,2026-11-23,clear,6.5,17,4.1,0.0,0.0,88,3.5,6,4,0,72,64,2,Marcus is laid up with a stomach bug.
+24,2026-11-24,rain,3.1,18,5.1,0.0,0.0,79,3.3,6,4,0,70,64,2,"Salvaged emergency beacon: 29% built. 3 kg fish, 18 coconuts."
+25,2026-11-25,clear,5.3,29,7.7,0.0,0.0,94,3.4,6,4,0,71,68,2,Lucy turned 24. Elena baked coconut cake on a hot stone.
+26,2026-11-26,rain,4.9,24,7.2,0.0,0.0,90,3.4,6,4,0,71,67,1,Marcus is back on his feet.
+27,2026-11-27,rain,4.8,30,8.9,0.0,0.0,92,3.6,5,4,0,71,67,0,Sam is back on his feet.
+28,2026-11-28,rain,3.3,30,6.6,0.0,0.0,81,3.7,8,5,0,69,67,0,"Salvaged emergency beacon: 46% built. 3 kg fish, 30 coconuts."
+29,2026-11-29,cloudy,9.4,37,9.5,0.0,0.0,100,4.1,7,5,0,71,66,0,"Salvaged emergency beacon: 54% built. 9 kg fish, 37 coconuts."
+30,2026-11-30,rain,7.1,12,3.4,0.0,0.0,85,3.8,6,5,0,70,66,0,"Salvaged emergency beacon: 76% built. 7 kg fish, 12 coconuts."
+31,2026-12-01,rain,2.7,21,7.4,0.0,0.0,81,3.7,5,5,0,68,66,0,"Salvaged emergency beacon: 82% built. 3 kg fish, 21 coconuts."
+32,2026-12-02,clear,8.2,34,8.4,0.0,0.0,100,4.0,4,5,0,70,66,0,"Salvaged emergency beacon: 90% built. 8 kg fish, 34 coconuts."
+33,2026-12-03,cloudy,4.9,16,5.9,0.0,0.0,85,3.8,3,5,0,69,63,0,The salvaged emergency beacon gave out. No reply was ever heard.
+34,2026-12-04,rain,5.1,30,7.2,0.0,0.0,89,3.9,6,6,0,69,63,0,"Summit signal beacon: 86% built. 5 kg fish, 30 coconuts."
+35,2026-12-05,rain,5.7,25,6.4,4.0,0.0,100,3.9,8,7,0,69,63,0,Wild taro and yams found in a wet hollow behind the beach.
+36,2026-12-06,rain,5.1,11,2.7,2.8,0.0,88,3.6,8,7,0,68,63,0,"Sunday. Walt's garden tour, then a nap in the shade."
+37,2026-12-07,clear,4.8,30,8.8,4.9,0.0,100,3.9,12,9,0,70,66,0,Finished: Summit signal beacon.
+38,2026-12-08,storm,0.0,0,0.0,0.0,0.0,52,3.3,12,9,0,66,65,0,A squall tore through camp overnight. Repairs needed.
+39,2026-12-09,rain,7.2,23,8.0,3.4,0.0,100,3.4,15,10,0,67,69,0,Hana turned 28. Elena baked coconut cake on a hot stone.
+40,2026-12-10,cloudy,8.9,20,3.9,3.1,0.0,100,3.4,27,14,0,67,69,1,Elena is laid up with sunstroke.
+41,2026-12-11,rain,3.1,14,2.6,0.7,0.0,74,3.1,33,16,0,65,50,1,Ship lights on the horizon after dark. The summit beacon was unlit that night; it never saw us.
+42,2026-12-12,cloudy,10.2,34,9.3,4.1,0.0,100,3.7,33,16,0,67,57,1,"New rule: a night watch on the summit, every night, no exceptions."
+43,2026-12-13,clear,7.2,13,8.3,3.5,0.0,100,3.5,33,16,0,68,58,0,A grove of breadfruit trees on the eastern slope.
+44,2026-12-14,cloudy,8.9,18,8.8,2.5,0.0,100,3.5,32,16,0,69,58,0,Repairs finished on the latrine and wash area.
+45,2026-12-15,rain,5.0,10,3.9,2.9,0.0,91,3.2,31,16,0,70,59,0,"Lagoon fish weir: 37% built. 5 kg fish, 10 coconuts."
+46,2026-12-16,rain,2.6,30,6.8,4.6,0.0,98,3.3,29,16,0,70,59,0,"Lagoon fish weir: 39% built. 3 kg fish, 30 coconuts."
+47,2026-12-17,clear,6.6,23,9.3,3.2,0.0,100,3.4,27,16,0,71,59,0,"Lagoon fish weir: 54% built. 7 kg fish, 23 coconuts."
+48,2026-12-18,rain,6.4,15,4.0,1.5,0.0,91,3.2,26,16,0,71,60,0,"Lagoon fish weir: 66% built. 6 kg fish, 15 coconuts."
+49,2026-12-19,rain,3.7,28,12.1,2.3,0.0,100,3.4,25,16,0,71,60,0,"Lagoon fish weir: 69% built. 4 kg fish, 28 coconuts."
+50,2026-12-20,clear,9.3,18,5.3,1.1,0.0,100,3.3,25,16,0,72,60,1,Ray is laid up with a fever.
+51,2026-12-21,cloudy,8.0,18,9.5,4.2,0.0,100,3.4,23,16,0,73,60,1,"Lagoon fish weir: 73% built. 8 kg fish, 18 coconuts."
+52,2026-12-22,rain,3.8,10,5.8,2.5,0.0,92,3.0,22,16,0,73,60,1,"Lagoon fish weir: 78% built. 4 kg fish, 10 coconuts."
+53,2026-12-23,rain,4.7,25,12.6,2.9,0.0,100,3.2,20,16,0,73,61,0,Wild bananas near the waterfall. Elena is thrilled.
+54,2026-12-24,cloudy,8.6,15,6.3,1.5,0.0,100,3.0,19,16,0,74,61,0,"Lagoon fish weir: 96% built. 9 kg fish, 15 coconuts."
+55,2026-12-25,rain,4.4,11,6.4,1.1,0.0,89,2.7,17,16,0,74,64,0,Finished: Lagoon fish weir.
+56,2026-12-26,rain,12.5,25,11.4,1.9,0.0,100,3.1,19,17,0,74,64,0,"Sleeping hut 1: 31% built. 12 kg fish, 25 coconuts."
+57,2026-12-27,clear,16.6,24,6.0,3.5,0.0,100,3.5,25,19,0,75,64,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+58,2026-12-28,clear,18.0,22,6.6,1.4,0.0,100,3.8,21,19,0,76,64,0,"Sleeping hut 1: 44% built. 18 kg fish, 22 coconuts."
+59,2026-12-29,storm,0.0,0,0.0,0.0,0.0,53,3.2,21,19,0,72,64,1,Ray is laid up with a stomach bug.
+60,2026-12-30,cloudy,12.6,30,17.9,5.5,0.0,100,4.0,21,19,0,73,64,1,"Sleeping hut 1: 44% built. 13 kg fish, 30 coconuts."
+61,2026-12-31,clear,10.0,14,6.0,2.2,0.0,100,3.9,30,22,0,73,64,1,Captain Ray is down with a high fever. Nia keeps watch.
+62,2027-01-01,cloudy,18.4,15,8.7,4.1,0.0,100,4.2,30,22,0,74,64,1,Repairs finished on the summit signal beacon.
+63,2027-01-02,rain,13.6,17,5.0,1.7,0.0,100,4.2,29,22,0,74,64,1,"Sleeping hut 1: 48% built. 14 kg fish, 17 coconuts."
+64,2027-01-03,storm,0.0,0,0.0,0.0,0.0,69,3.5,29,22,0,71,64,1,A squall tore through camp overnight. Repairs needed.
+65,2027-01-04,rain,11.1,22,14.1,3.2,0.0,100,3.9,29,22,0,71,64,1,"Sleeping hut 1: 48% built. 11 kg fish, 22 coconuts."
+66,2027-01-05,rain,14.9,10,4.6,1.5,0.0,100,3.8,29,22,0,71,64,1,Repairs finished on the palm-frond lean-to.
+67,2027-01-06,cloudy,13.3,20,12.2,2.2,0.0,100,4.0,25,22,0,72,64,0,Ray is back on his feet.
+68,2027-01-07,rain,17.4,8,6.8,1.6,0.0,100,4.0,22,22,0,73,64,0,"Sleeping hut 1: 70% built. 17 kg fish, 8 coconuts."
+69,2027-01-08,clear,9.9,22,8.8,2.8,0.0,100,4.2,18,22,0,74,64,0,"Sleeping hut 1: 85% built. 10 kg fish, 22 coconuts."
+70,2027-01-09,rain,9.5,13,5.4,2.1,0.0,100,4.0,15,22,0,74,64,0,"First full walk around the coast: 9 km of shoreline, two good reefs, one sea cave."
+71,2027-01-10,rain,10.3,9,7.5,1.5,0.0,100,3.7,15,22,0,74,64,0,Sunday rest. June held class on the beach; Kofi taught knots.
+72,2027-01-11,clear,13.7,18,7.3,3.9,0.0,100,3.9,12,22,0,75,67,0,Finished: Sleeping hut 1.
+73,2027-01-12,clear,10.8,16,6.0,1.7,0.0,100,3.8,10,22,0,76,67,0,"Bamboo aqueduct and cistern: 45% built. 11 kg fish, 16 coconuts."
+74,2027-01-13,cloudy,11.2,23,5.9,1.9,0.0,100,4.0,14,24,0,77,68,0,"Bamboo aqueduct and cistern: 50% built. 11 kg fish, 23 coconuts."
+75,2027-01-14,rain,10.5,10,5.5,2.8,0.0,100,3.8,13,24,0,78,68,0,"Bamboo aqueduct and cistern: 55% built. 10 kg fish, 10 coconuts."
+76,2027-01-15,clear,15.4,24,11.3,2.3,0.0,100,4.2,11,24,0,78,68,0,"Bamboo aqueduct and cistern: 64% built. 15 kg fish, 24 coconuts."
+77,2027-01-16,rain,14.6,10,5.4,2.2,0.0,100,4.1,10,24,0,79,68,0,Rain all day. Every shell and hull-panel set out to catch it.
+78,2027-01-17,cloudy,13.8,22,11.5,1.6,0.0,100,4.4,10,24,0,80,68,0,"Sunday. No building today: fishing, swimming and a long supper."
+79,2027-01-18,cloudy,13.5,15,11.2,1.7,0.0,100,4.5,8,24,0,81,68,0,"Bamboo aqueduct and cistern: 77% built. 14 kg fish, 15 coconuts."
+80,2027-01-19,cloudy,13.6,14,9.4,2.4,0.0,100,4.6,7,24,0,82,68,0,"Bamboo aqueduct and cistern: 86% built. 14 kg fish, 14 coconuts."
+81,2027-01-20,cloudy,15.9,19,5.4,3.8,0.0,100,4.8,11,26,0,82,68,0,"Bamboo aqueduct and cistern: 88% built. 16 kg fish, 19 coconuts."
+82,2027-01-21,cloudy,17.2,14,11.2,2.3,0.0,100,5.1,9,26,0,83,68,0,A dry cave above the river. Good storm shelter.
+83,2027-01-22,clear,13.7,19,12.2,2.8,0.0,100,5.3,7,26,0,84,72,0,Finished: Bamboo aqueduct and cistern.
+84,2027-01-23,rain,13.8,15,9.7,3.4,0.0,100,5.5,10,28,0,84,72,0,"Smokehouse: 70% built. 14 kg fish, 15 coconuts."
+85,2027-01-24,cloudy,13.4,16,11.9,2.5,0.0,100,5.7,16,30,0,85,72,0,Sunday rest. June held class on the beach; Kofi taught knots.
+86,2027-01-25,clear,14.4,26,8.9,1.6,0.0,100,6.0,22,33,0,85,72,0,"Smokehouse: 86% built. 14 kg fish, 26 coconuts."
+87,2027-01-26,cloudy,16.7,24,10.8,4.0,0.0,100,6.5,17,33,0,86,75,0,Finished: Smokehouse.
+88,2027-01-27,rain,16.4,12,4.6,2.3,0.0,100,6.4,19,34,0,85,78,1,Tomas is laid up with a stomach bug.
+89,2027-01-28,storm,0.0,0,0.0,0.0,0.0,55,5.8,19,34,0,83,78,1,A squall tore through camp overnight. Repairs needed.
+90,2027-01-29,clear,15.0,41,15.4,6.6,0.0,100,6.9,19,34,0,83,78,1,"Sleeping hut 2: 53% built. 15 kg fish, 41 coconuts."
+91,2027-01-30,cloudy,17.1,22,7.1,2.0,0.0,100,7.2,22,35,0,84,77,1,Repairs finished on the summit signal beacon.
+92,2027-01-31,clear,13.4,14,11.5,3.3,0.0,100,7.3,22,35,0,84,78,1,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+93,2027-02-01,rain,12.5,20,9.4,2.5,0.0,100,7.4,21,35,0,85,78,0,Repairs finished on the lagoon fish weir.
+94,2027-02-02,cloudy,20.4,24,12.8,2.9,0.0,100,8.0,17,35,0,85,77,0,Workable clay in the riverbank. Priya wants a kiln.
+95,2027-02-03,clear,12.0,19,8.8,3.4,0.0,100,8.2,12,35,0,86,77,0,"Sleeping hut 2: 78% built. 12 kg fish, 19 coconuts."
+96,2027-02-04,clear,15.2,22,7.0,4.0,0.0,100,8.4,9,35,0,86,77,0,"Sleeping hut 2: 90% built. 15 kg fish, 22 coconuts."
+97,2027-02-05,rain,14.1,11,6.0,1.4,0.0,100,8.3,5,35,0,87,79,0,Finished: Sleeping hut 2.
+98,2027-02-06,rain,6.5,10,7.9,1.7,0.0,100,7.9,3,35,0,87,81,0,Finished: Giant SOS on the beach.
+99,2027-02-07,clear,13.8,33,9.9,2.3,0.0,100,8.4,3,35,0,88,81,0,"Sunday. No building today: fishing, swimming and a long supper."
+100,2027-02-08,storm,0.0,0,0.0,0.0,0.0,83,7.4,3,35,0,88,86,0,Day 100. June carved the hundredth notch in the calendar post.
+101,2027-02-09,cloudy,11.0,41,22.4,4.2,0.0,100,8.4,18,40,0,88,85,0,Repairs finished on the palm-frond lean-to.
+102,2027-02-10,rain,15.2,20,6.0,1.9,0.0,100,8.5,24,42,0,89,84,0,Repairs finished on the latrine and wash area.
+103,2027-02-11,rain,10.0,14,3.5,1.9,0.0,100,8.2,29,44,0,89,84,0,Repairs finished on the sleeping hut 1.
+104,2027-02-12,rain,16.1,15,4.3,1.7,0.0,100,8.2,29,44,0,90,84,0,Repairs finished on the bamboo aqueduct and cistern.
+105,2027-02-13,clear,14.8,22,11.4,5.2,0.0,100,8.6,26,44,0,90,83,0,Repairs finished on the sleeping hut 2.
+106,2027-02-14,rain,13.6,13,7.9,1.5,0.0,100,8.5,26,44,0,91,87,0,Ray turned 55. Elena baked coconut cake on a hot stone.
+107,2027-02-15,rain,10.3,14,7.7,2.9,0.0,100,8.4,25,44,0,91,86,0,"Garden terrace 1: 65% built. 10 kg fish, 14 coconuts."
+108,2027-02-16,clear,9.0,30,12.0,4.5,0.0,100,8.8,23,44,0,91,86,0,A second spring on the north side keeps flowing in the dry season.
+109,2027-02-17,cloudy,14.8,20,9.9,1.8,0.0,100,9.0,21,44,0,92,88,0,Finished: Garden terrace 1.
+110,2027-02-18,rain,12.0,18,7.9,2.2,0.0,100,9.0,24,45,0,92,87,0,Rain all day. The cistern is full.
+111,2027-02-19,rain,13.5,22,8.2,3.3,0.0,100,9.2,23,45,0,92,87,0,"Salt evaporation pans: 71% built. 14 kg fish, 22 coconuts."
+112,2027-02-20,cloudy,10.8,25,11.6,3.7,0.0,100,9.4,21,45,0,93,86,0,"Salt evaporation pans: 92% built. 11 kg fish, 25 coconuts."
+113,2027-02-21,clear,10.8,19,11.1,1.5,0.0,100,9.5,21,45,0,93,86,0,"Sunday. No building today: fishing, swimming and a long supper."
+114,2027-02-22,rain,15.8,13,9.4,2.7,0.0,100,9.5,19,45,0,94,89,0,Finished: Salt evaporation pans.
+115,2027-02-23,cloudy,17.5,26,7.5,3.0,0.0,100,9.9,15,45,0,94,88,0,"Sleeping hut 3: 39% built. 18 kg fish, 26 coconuts."
+116,2027-02-24,rain,11.7,15,5.6,1.5,0.0,100,9.7,18,47,0,94,87,0,"Sleeping hut 3: 46% built. 12 kg fish, 15 coconuts."
+117,2027-02-25,rain,14.0,22,10.7,3.3,0.0,100,10.0,15,47,0,94,86,0,"Sleeping hut 3: 55% built. 14 kg fish, 22 coconuts."
+118,2027-02-26,cloudy,11.6,21,7.1,1.7,0.0,100,10.0,13,47,0,93,86,1,Sam fell from the lookout scaffold and broke his arm. Splinted by Nia.
+119,2027-02-27,clear,14.9,14,4.9,1.7,0.0,100,9.9,10,47,0,94,85,1,"Sleeping hut 3: 62% built. 15 kg fish, 14 coconuts."
+120,2027-02-28,clear,14.4,18,6.8,3.7,0.0,100,10.0,10,47,0,94,85,1,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+121,2027-03-01,storm,0.0,0,0.0,0.0,0.0,63,9.3,10,47,0,92,84,1,A squall tore through camp overnight. Repairs needed.
+122,2027-03-02,storm,0.0,0,0.0,0.0,0.0,53,8.6,10,47,0,90,84,1,A squall tore through camp overnight. Repairs needed.
+123,2027-03-03,rain,8.7,27,9.1,4.0,0.0,100,8.9,16,49,0,90,83,1,"Sleeping hut 3: 62% built. 9 kg fish, 27 coconuts."
+124,2027-03-04,clear,15.9,18,5.6,2.9,0.0,100,9.0,28,53,0,90,83,1,Repairs finished on the palm-frond lean-to.
+125,2027-03-05,rain,14.4,9,2.4,1.3,0.0,100,8.7,34,55,0,91,82,1,Repairs finished on the latrine and wash area.
+126,2027-03-06,clear,17.1,27,12.1,3.5,0.0,100,9.2,34,55,0,91,82,1,Repairs finished on the smokehouse.
+127,2027-03-07,rain,16.4,11,4.0,0.8,0.0,100,9.1,34,55,0,92,82,1,Sunday rest. June held class on the beach; Kofi taught knots.
+128,2027-03-08,rain,9.4,11,3.0,1.2,0.0,100,8.7,34,55,0,92,82,1,Repairs finished on the bamboo aqueduct and cistern.
+129,2027-03-09,cloudy,13.4,18,9.0,3.5,0.0,100,8.8,34,55,0,92,81,1,Repairs finished on the sleeping hut 1.
+130,2027-03-10,rain,8.9,8,3.4,2.4,0.0,100,8.4,34,55,0,92,81,1,"Sleeping hut 3: 66% built. 9 kg fish, 8 coconuts."
+131,2027-03-11,rain,13.1,14,4.3,1.8,0.0,100,8.2,33,55,0,93,81,1,Repairs finished on the garden terrace 1.
+132,2027-03-12,rain,15.2,23,5.9,1.6,0.0,100,8.4,31,55,0,93,80,1,Rain all day. The cistern is full.
+133,2027-03-13,rain,8.9,8,2.7,1.0,0.0,99,7.9,29,55,0,93,80,1,"Sleeping hut 3: 75% built. 9 kg fish, 8 coconuts."
+134,2027-03-14,rain,12.7,8,4.2,2.3,0.0,100,7.7,29,55,0,93,80,1,Sunday rest. June held class on the beach; Kofi taught knots.
+135,2027-03-15,clear,14.8,21,10.8,3.2,0.0,100,8.0,27,55,0,94,80,1,"Sleeping hut 3: 79% built. 15 kg fish, 21 coconuts."
+136,2027-03-16,rain,11.2,11,2.5,1.0,0.0,100,7.6,26,55,0,94,79,1,"Sleeping hut 3: 81% built. 11 kg fish, 11 coconuts."
+137,2027-03-17,storm,0.0,0,0.0,0.0,0.0,53,7.0,26,55,0,91,80,1,A squall tore through camp overnight. Repairs needed.
+138,2027-03-18,cloudy,17.2,38,9.2,4.9,0.0,100,7.8,26,55,0,92,80,1,Repairs finished on the latrine and wash area.
+139,2027-03-19,cyclone,0.0,0,0.0,0.0,0.0,58,7.1,26,55,0,89,65,1,Cyclone. The camp is flattened; the weir is gone; the wreck slid off the reef.
+140,2027-03-20,rain,6.3,27,9.2,1.7,0.0,100,7.2,29,56,0,88,71,1,Everyone survived the cyclone in the cave. Rebuilding starts tomorrow.
+141,2027-03-21,storm,0.0,0,0.0,0.0,0.0,53,6.6,29,56,0,84,71,1,A squall tore through camp overnight. Repairs needed.
+142,2027-03-22,rain,6.4,22,7.4,2.4,0.0,100,6.6,35,58,0,84,75,1,Sam turned 17. Elena baked coconut cake on a hot stone.
+143,2027-03-23,rain,3.8,9,3.5,2.0,0.0,84,6.2,41,60,0,83,74,1,Rain all day. The cistern is full.
+144,2027-03-24,clear,12.3,43,12.1,4.8,0.0,100,7.0,41,60,0,83,74,1,Repairs finished on the palm-frond lean-to.
+145,2027-03-25,rain,4.5,13,3.7,1.6,0.0,84,6.7,40,60,0,82,74,0,Repairs finished on the latrine and wash area.
+146,2027-03-26,rain,8.0,26,8.0,3.8,0.0,100,6.9,40,60,0,82,73,0,"Sleeping hut 3: 81% built. 8 kg fish, 26 coconuts."
+147,2027-03-27,cloudy,6.6,27,7.4,2.3,0.0,100,6.9,40,60,0,82,73,0,Repairs finished on the summit signal beacon.
+148,2027-03-28,rain,7.3,18,5.2,1.7,0.0,98,6.7,40,60,0,82,73,0,"Sunday. Walt's garden tour, then a nap in the shade."
+149,2027-03-29,rain,4.4,15,5.6,1.8,0.0,89,6.4,40,60,0,82,72,0,"Sleeping hut 3: 81% built. 4 kg fish, 15 coconuts."
+150,2027-03-30,clear,11.6,45,18.6,8.6,0.0,100,7.6,40,60,0,83,72,0,"Sleeping hut 3: 81% built. 12 kg fish, 45 coconuts."
+151,2027-03-31,rain,6.7,15,4.1,2.7,0.0,100,7.3,40,60,0,82,72,0,"Sleeping hut 3: 81% built. 7 kg fish, 15 coconuts."
+152,2027-04-01,rain,9.7,12,5.6,1.0,0.0,100,7.0,40,60,0,82,72,0,Repairs finished on the lagoon fish weir.
+153,2027-04-02,storm,0.0,0,0.0,0.0,0.0,67,6.2,40,60,0,80,72,0,A squall tore through camp overnight. Repairs needed.
+154,2027-04-03,cloudy,17.4,35,11.2,4.2,0.0,100,7.0,40,60,0,80,72,0,Repairs finished on the palm-frond lean-to.
+155,2027-04-04,rain,12.0,15,4.6,2.5,0.0,100,6.9,40,60,0,80,72,0,Sunday rest. June held class on the beach; Kofi taught knots.
+156,2027-04-05,cloudy,12.1,25,6.8,2.8,0.0,100,7.1,40,60,0,81,72,0,"Sleeping hut 3: 81% built. 12 kg fish, 25 coconuts."
+157,2027-04-06,clear,14.8,20,5.7,3.2,0.0,100,7.2,39,60,0,82,71,0,Repairs finished on the sleeping hut 1.
+158,2027-04-07,rain,9.3,14,6.7,1.8,0.0,100,7.0,39,60,0,82,71,0,"Sleeping hut 3: 81% built. 9 kg fish, 14 coconuts."
+159,2027-04-08,clear,14.4,27,6.7,3.7,0.0,100,7.4,39,60,0,83,71,0,Repairs finished on the bamboo aqueduct and cistern.
+160,2027-04-09,rain,11.7,10,5.7,2.2,0.0,100,7.1,39,60,0,84,71,0,"Sleeping hut 3: 81% built. 12 kg fish, 10 coconuts."
+161,2027-04-10,rain,9.0,15,4.7,2.6,0.0,100,6.9,39,60,0,84,71,0,"Sleeping hut 3: 81% built. 9 kg fish, 15 coconuts."
+162,2027-04-11,clear,12.6,19,6.6,2.5,0.0,100,7.0,39,60,0,85,72,0,"Sunday. No building today: fishing, swimming and a long supper."
+163,2027-04-12,cloudy,17.8,26,8.8,3.4,0.0,100,7.5,39,60,0,85,72,0,Repairs finished on the smokehouse.
+164,2027-04-13,clear,17.4,14,6.6,1.5,0.0,100,7.5,39,60,0,86,72,0,Repairs finished on the giant sos on the beach.
+165,2027-04-14,clear,14.3,30,5.8,1.5,0.0,100,7.8,39,60,0,86,73,0,Repairs finished on the sleeping hut 2.
+166,2027-04-15,clear,20.7,19,4.2,3.1,0.0,100,8.1,37,60,0,87,73,0,"Sleeping hut 3: 87% built. 21 kg fish, 19 coconuts."
+167,2027-04-16,clear,11.6,16,6.4,2.7,0.0,100,8.0,36,60,0,88,73,0,Repairs finished on the garden terrace 1.
+168,2027-04-17,cloudy,16.1,30,8.5,3.9,0.0,100,8.5,35,60,0,88,73,0,"Sleeping hut 3: 96% built. 16 kg fish, 30 coconuts."
+169,2027-04-18,rain,11.4,15,5.6,2.6,0.0,100,8.4,35,60,0,89,74,0,"Sunday. Walt's garden tour, then a nap in the shade."
+170,2027-04-19,rain,14.7,17,6.0,2.5,0.0,100,8.4,34,60,0,89,77,0,Finished: Sleeping hut 3.
+171,2027-04-20,clear,13.9,18,12.3,4.2,0.0,100,8.7,31,60,0,89,77,0,"Garden terrace 2: 99% built. 14 kg fish, 18 coconuts."
+172,2027-04-21,storm,0.0,0,0.0,0.0,0.0,55,8.0,31,60,0,87,77,0,A squall tore through camp overnight. Repairs needed.
+173,2027-04-22,clear,19.3,42,12.4,6.5,0.0,100,9.2,46,65,0,88,77,0,Repairs finished on the latrine and wash area.
+174,2027-04-23,cloudy,13.4,19,8.8,4.6,0.0,100,9.3,45,65,0,88,77,0,Repairs finished on the summit signal beacon.
+175,2027-04-24,clear,17.1,20,4.1,1.7,0.0,100,9.4,45,65,0,89,77,0,Repairs finished on the bamboo aqueduct and cistern.
+176,2027-04-25,rain,15.7,15,6.4,2.5,0.0,100,9.5,45,65,0,90,78,0,Sunday rest. June held class on the beach; Kofi taught knots.
+177,2027-04-26,rain,9.1,20,6.6,3.5,0.0,100,9.4,45,65,0,90,78,0,Repairs finished on the sleeping hut 2.
+178,2027-04-27,rain,9.7,11,5.0,2.4,0.0,100,9.1,43,65,0,90,81,0,Finished: Garden terrace 2.
+179,2027-04-28,rain,14.3,15,6.7,1.9,0.0,100,9.1,40,65,0,91,81,0,"Sleeping hut 4: 59% built. 14 kg fish, 15 coconuts."
+180,2027-04-29,cloudy,10.2,27,8.4,3.0,0.0,100,9.2,36,65,0,91,81,0,"Sleeping hut 4: 71% built. 10 kg fish, 27 coconuts."
+181,2027-04-30,clear,17.8,24,8.5,2.9,0.0,100,9.6,33,65,0,91,85,0,Walt turned 68. Elena baked coconut cake on a hot stone.
+182,2027-05-01,clear,8.5,25,8.5,1.8,0.0,100,9.7,29,65,0,92,85,0,"Sleeping hut 4: 95% built. 8 kg fish, 25 coconuts."
+183,2027-05-02,rain,9.7,22,3.5,2.4,0.0,100,9.6,29,65,0,92,87,0,Six months on the island.
+184,2027-05-03,clear,14.6,14,7.1,3.7,0.0,100,9.6,26,65,0,92,89,0,Finished: Sleeping hut 4.
+185,2027-05-04,clear,15.3,14,4.5,1.8,0.0,100,9.5,23,65,0,93,88,0,"Summit lookout platform: 45% built. 15 kg fish, 14 coconuts."
+186,2027-05-05,cloudy,9.1,25,11.7,2.1,0.0,100,9.7,22,65,0,93,88,1,June is laid up with sunstroke.
+187,2027-05-06,clear,10.8,26,7.1,3.7,0.0,100,9.8,21,65,0,93,87,1,"Summit lookout platform: 56% built. 11 kg fish, 26 coconuts."
+188,2027-05-07,rain,7.5,10,5.8,1.8,0.0,100,9.4,19,65,0,93,87,0,June is back on her feet.
+189,2027-05-08,clear,21.0,31,9.4,3.9,0.0,100,10.1,16,65,0,93,86,0,"Summit lookout platform: 79% built. 21 kg fish, 31 coconuts."
+190,2027-05-09,clear,14.0,22,8.1,3.9,0.0,100,10.3,16,65,0,94,86,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+191,2027-05-10,clear,15.2,18,5.6,1.4,0.0,100,10.3,14,65,0,94,86,0,"Summit lookout platform: 92% built. 15 kg fish, 18 coconuts."
+192,2027-05-11,clear,19.2,27,11.3,2.3,0.0,100,10.9,12,65,0,94,88,0,Finished: Summit lookout platform.
+193,2027-05-12,rain,9.9,15,6.3,2.2,0.0,100,10.7,11,65,0,95,88,0,"Dugout canoe: 16% built. 10 kg fish, 15 coconuts."
+194,2027-05-13,clear,13.7,18,9.7,3.4,0.0,100,10.8,9,65,0,95,87,0,"Dugout canoe: 20% built. 14 kg fish, 18 coconuts."
+195,2027-05-14,clear,18.0,24,7.1,4.1,0.0,100,11.1,8,65,0,95,87,0,"Dugout canoe: 23% built. 18 kg fish, 24 coconuts."
+196,2027-05-15,clear,10.4,25,9.3,2.8,0.0,100,11.3,7,65,0,95,86,0,"Dugout canoe: 27% built. 10 kg fish, 25 coconuts."
+197,2027-05-16,clear,20.6,20,5.1,3.5,0.0,100,11.6,7,65,0,95,86,0,"Sunday. No building today: fishing, swimming and a long supper."
+198,2027-05-17,cloudy,17.4,22,9.8,2.1,0.0,100,11.8,5,65,0,96,86,0,"Dugout canoe: 30% built. 17 kg fish, 22 coconuts."
+199,2027-05-18,clear,14.4,16,9.2,2.7,0.0,100,11.9,4,65,0,96,89,0,Kofi turned 39. Elena baked coconut cake on a hot stone.
+200,2027-05-19,cloudy,18.0,16,8.5,1.5,0.0,100,12.0,2,65,0,96,88,0,"Dugout canoe: 37% built. 18 kg fish, 16 coconuts."
+201,2027-05-20,clear,16.4,27,6.7,4.8,0.0,100,12.4,1,65,0,96,90,0,Finished: Garden terrace 3.
+202,2027-05-21,clear,11.0,21,7.6,4.2,0.0,100,12.4,12,69,0,96,89,0,"Dugout canoe: 42% built. 11 kg fish, 21 coconuts."
+203,2027-05-22,cloudy,12.1,20,7.6,2.9,0.0,100,12.4,20,72,0,96,89,0,"Dugout canoe: 43% built. 12 kg fish, 20 coconuts."
+204,2027-05-23,cloudy,20.3,21,8.8,4.1,0.0,100,12.8,20,72,0,97,89,0,"Sunday. Walt's garden tour, then a nap in the shade."
+205,2027-05-24,clear,17.6,25,9.4,3.9,0.0,100,13.2,18,72,0,97,88,0,"Dugout canoe: 47% built. 18 kg fish, 25 coconuts."
+206,2027-05-25,clear,15.7,16,9.1,4.1,0.0,100,13.4,17,72,0,97,87,0,"Dugout canoe: 50% built. 16 kg fish, 16 coconuts."
+207,2027-05-26,clear,19.1,28,10.9,2.7,0.0,100,13.9,17,72,0,97,87,0,"Dugout canoe: 54% built. 19 kg fish, 28 coconuts."
+208,2027-05-27,cloudy,13.8,15,9.7,3.7,0.0,100,13.9,16,72,0,97,87,0,"Dugout canoe: 57% built. 14 kg fish, 15 coconuts."
+209,2027-05-28,clear,15.4,16,6.0,2.0,0.0,100,13.8,14,72,0,97,86,0,"Dugout canoe: 61% built. 15 kg fish, 16 coconuts."
+210,2027-05-29,clear,17.6,25,8.7,2.1,0.0,100,14.1,14,72,0,97,86,0,"Dugout canoe: 64% built. 18 kg fish, 25 coconuts."
+211,2027-05-30,cloudy,12.8,26,5.6,3.8,0.0,100,14.2,14,72,0,98,86,0,"Sunday. No building today: fishing, swimming and a long supper."
+212,2027-05-31,clear,16.9,15,6.6,1.5,0.0,100,14.2,13,72,0,98,85,0,"Dugout canoe: 68% built. 17 kg fish, 15 coconuts."
+213,2027-06-01,clear,13.1,25,10.5,1.8,0.0,100,14.4,12,72,0,98,85,0,"Dugout canoe: 71% built. 13 kg fish, 25 coconuts."
+214,2027-06-02,clear,12.2,25,12.4,4.2,0.0,100,14.7,10,72,0,98,87,0,Finished: Shade house and classroom.
+215,2027-06-03,clear,9.5,15,12.3,3.1,0.0,100,14.6,9,72,0,98,91,0,Nia turned 32. Elena baked coconut cake on a hot stone.
+216,2027-06-04,clear,16.8,19,9.0,3.2,0.0,100,14.7,11,73,0,98,90,0,"Dugout canoe: 78% built. 17 kg fish, 19 coconuts."
+217,2027-06-05,clear,17.9,25,6.7,3.7,0.0,100,15.0,11,73,0,98,90,0,"Dugout canoe: 82% built. 18 kg fish, 25 coconuts."
+218,2027-06-06,clear,21.5,19,8.1,2.7,0.0,100,15.3,11,73,0,98,90,0,"Sunday. No building today: fishing, swimming and a long supper."
+219,2027-06-07,clear,17.3,28,14.6,4.3,0.0,100,15.9,11,73,0,98,89,0,"Dugout canoe: 85% built. 17 kg fish, 28 coconuts."
+220,2027-06-08,rain,11.3,18,5.0,1.0,2.6,100,15.7,11,73,0,98,88,0,Rain all day. The cistern is full.
+221,2027-06-09,rain,11.0,12,7.7,1.5,1.7,100,15.5,10,73,0,98,88,1,Hana is laid up with an infected coral cut.
+222,2027-06-10,cloudy,9.4,24,14.6,2.1,2.3,100,15.7,9,73,0,98,87,1,"Dugout canoe: 90% built. 9 kg fish, 24 coconuts."
+223,2027-06-11,clear,16.4,25,5.5,1.8,1.9,100,15.9,8,73,0,98,86,1,"Dugout canoe: 91% built. 16 kg fish, 25 coconuts."
+224,2027-06-12,clear,17.4,16,12.8,3.7,3.3,100,16.2,8,73,0,98,86,0,Hana is back on her feet.
+225,2027-06-13,clear,13.0,19,7.5,1.8,2.3,100,16.2,8,73,0,98,85,0,"Sunday. Walt's garden tour, then a nap in the shade."
+226,2027-06-14,clear,14.7,18,13.0,3.2,3.0,100,16.5,7,73,0,98,93,0,Sam finished a full school year with June. Graduation by firelight.
+227,2027-06-15,rain,9.8,10,4.7,2.0,1.5,100,16.0,7,73,0,98,95,0,Finished: Dugout canoe.
+228,2027-06-16,clear,13.3,30,12.8,2.7,3.1,100,16.5,12,75,0,98,94,0,"Infirmary hut: 77% built. 13 kg fish, 30 coconuts."
+229,2027-06-17,clear,18.1,20,9.1,1.9,3.1,100,16.8,10,75,0,98,93,0,"Infirmary hut: 89% built. 18 kg fish, 20 coconuts."
+230,2027-06-18,rain,8.7,11,5.4,1.8,2.8,100,16.4,8,75,0,98,92,0,"Infirmary hut: 97% built. 9 kg fish, 11 coconuts."
+231,2027-06-19,rain,11.7,20,4.9,3.3,2.2,100,16.3,7,75,0,99,94,0,Finished: Infirmary hut.
+232,2027-06-20,rain,13.3,15,4.7,2.8,2.3,100,16.2,7,75,0,99,94,0,"Sunday. No building today: fishing, swimming and a long supper."
+233,2027-06-21,clear,18.9,16,10.8,3.3,1.9,100,16.4,6,75,0,99,93,0,"Clay kiln and pottery: 37% built. 19 kg fish, 16 coconuts."
+234,2027-06-22,clear,21.8,31,6.7,5.2,3.5,100,17.1,5,75,0,99,92,0,"Clay kiln and pottery: 44% built. 22 kg fish, 31 coconuts."
+235,2027-06-23,cloudy,10.6,26,10.9,1.4,1.8,100,17.3,5,75,0,98,92,1,Hana is laid up with sunstroke.
+236,2027-06-24,clear,15.7,21,8.5,3.8,3.2,100,17.5,5,75,0,98,91,1,"Clay kiln and pottery: 49% built. 16 kg fish, 21 coconuts."
+237,2027-06-25,cloudy,19.4,19,11.9,3.2,2.1,100,17.9,4,75,0,98,90,0,Hana is back on her feet.
+238,2027-06-26,clear,12.5,16,8.6,3.1,2.6,100,17.9,3,75,0,97,89,1,Nia is laid up with a stomach bug.
+239,2027-06-27,cloudy,13.5,25,10.2,3.1,2.4,100,18.1,3,75,0,97,89,1,"Sunday. No building today: fishing, swimming and a long supper."
+240,2027-06-28,clear,12.5,16,5.5,2.0,2.8,100,18.0,3,75,0,97,89,1,"Clay kiln and pottery: 61% built. 12 kg fish, 16 coconuts."
+241,2027-06-29,cloudy,15.8,26,10.8,3.2,2.7,100,18.3,2,75,0,97,88,0,Nia is back on her feet.
+242,2027-06-30,clear,12.9,14,11.9,3.6,2.8,100,18.4,1,75,0,98,88,0,"Clay kiln and pottery: 80% built. 13 kg fish, 14 coconuts."
+243,2027-07-01,rain,15.8,16,10.3,2.2,2.0,100,18.4,7,77,0,98,87,0,"Clay kiln and pottery: 85% built. 16 kg fish, 16 coconuts."
+244,2027-07-02,clear,15.0,19,8.5,4.1,2.7,100,18.6,6,77,0,98,87,0,"Clay kiln and pottery: 95% built. 15 kg fish, 19 coconuts."
+245,2027-07-03,clear,18.3,20,6.2,1.3,2.7,100,18.7,4,77,0,98,89,0,Finished: Clay kiln and pottery.
+246,2027-07-04,cloudy,21.6,31,11.6,2.3,2.5,100,19.4,13,80,0,98,89,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+247,2027-07-05,rain,11.0,17,7.7,2.5,2.2,100,19.2,12,80,0,98,88,0,"Garden terrace 4: 82% built. 11 kg fish, 17 coconuts."
+248,2027-07-06,clear,11.9,14,7.9,3.1,3.5,100,19.1,10,80,0,98,90,0,Finished: Garden terrace 4.
+249,2027-07-07,clear,9.5,31,9.6,4.4,2.9,100,19.4,21,84,0,98,94,0,Elena turned 47. Elena baked coconut cake on a hot stone.
+250,2027-07-08,clear,15.8,26,12.0,2.0,2.4,100,19.7,34,89,0,98,93,0,"River footbridge: 51% built. 16 kg fish, 26 coconuts."
+251,2027-07-09,rain,13.6,13,5.5,2.1,2.3,100,19.5,42,92,0,98,92,0,"River footbridge: 53% built. 14 kg fish, 13 coconuts."
+252,2027-07-10,cloudy,11.0,24,7.5,3.1,2.4,100,19.5,53,96,0,99,92,0,"River footbridge: 56% built. 11 kg fish, 24 coconuts."
+253,2027-07-11,clear,23.7,18,8.4,2.8,3.3,100,19.9,65,100,0,99,91,0,Big day on the water: 24 kg of fish from the canoe.
+254,2027-07-12,rain,13.6,10,4.5,2.3,2.6,100,19.6,73,103,0,99,90,0,"River footbridge: 59% built. 14 kg fish, 10 coconuts."
+255,2027-07-13,rain,14.6,14,9.6,1.5,2.6,100,19.5,78,105,0,98,90,1,Walt collapsed from heat exhaustion in the garden. Ordered to rest.
+256,2027-07-14,rain,11.7,10,7.2,2.1,2.1,100,19.2,83,107,0,98,90,1,"River footbridge: 66% built. 12 kg fish, 10 coconuts."
+257,2027-07-15,clear,15.6,25,13.2,3.7,3.2,100,19.7,88,109,0,98,89,1,"River footbridge: 69% built. 16 kg fish, 25 coconuts."
+258,2027-07-16,cloudy,13.8,21,10.3,4.9,3.6,100,19.9,86,109,0,98,88,1,"River footbridge: 73% built. 14 kg fish, 21 coconuts."
+259,2027-07-17,cloudy,13.5,22,10.0,4.0,3.1,100,20.1,84,109,0,98,88,0,Walt is back on his feet.
+260,2027-07-18,clear,21.9,24,6.8,3.5,2.7,100,20.5,84,109,0,98,88,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+261,2027-07-19,clear,14.2,31,13.2,3.3,1.9,100,21.0,81,109,0,98,90,0,Finished: River footbridge.
+262,2027-07-20,cloudy,17.1,14,11.2,4.2,2.5,100,21.1,78,109,0,98,90,0,"Longhouse (storm-proof hall): 14% built. 17 kg fish, 14 coconuts."
+263,2027-07-21,clear,17.0,16,8.3,3.8,2.4,100,21.2,76,109,0,98,89,0,"Longhouse (storm-proof hall): 17% built. 17 kg fish, 16 coconuts."
+264,2027-07-22,cloudy,19.5,30,12.2,3.7,2.9,100,21.8,73,109,0,98,88,0,"Longhouse (storm-proof hall): 20% built. 20 kg fish, 30 coconuts."
+265,2027-07-23,cloudy,17.4,24,8.0,1.5,2.6,100,21.9,70,109,0,98,87,0,"Longhouse (storm-proof hall): 23% built. 17 kg fish, 24 coconuts."
+266,2027-07-24,clear,13.2,24,12.4,1.8,2.2,100,22.1,73,111,0,98,86,0,"Longhouse (storm-proof hall): 26% built. 13 kg fish, 24 coconuts."
+267,2027-07-25,rain,13.3,18,10.0,2.5,2.3,100,22.1,73,111,0,98,86,0,"Sunday. No building today: fishing, swimming and a long supper."
+268,2027-07-26,rain,10.6,17,6.8,1.3,1.7,100,21.8,73,111,0,98,85,1,Hana is laid up with a fever.
+269,2027-07-27,cloudy,14.9,14,11.3,2.3,2.5,100,21.8,70,111,0,98,85,0,Hana is back on her feet.
+270,2027-07-28,rain,11.7,13,7.1,2.7,2.2,100,21.5,68,111,0,98,85,0,"Longhouse (storm-proof hall): 31% built. 12 kg fish, 13 coconuts."
+271,2027-07-29,clear,15.4,22,10.3,2.3,2.0,100,21.7,67,111,0,97,84,1,Kofi is laid up with sunstroke.
+272,2027-07-30,cloudy,13.1,26,9.0,3.1,3.2,100,21.9,66,111,0,97,84,1,"Longhouse (storm-proof hall): 33% built. 13 kg fish, 26 coconuts."
+273,2027-07-31,cloudy,10.6,28,11.1,5.2,3.3,100,22.2,64,111,0,97,83,1,"Longhouse (storm-proof hall): 34% built. 11 kg fish, 28 coconuts."
+274,2027-08-01,cloudy,9.1,15,7.7,3.4,3.1,100,21.9,64,111,0,97,83,1,"Sunday. Walt's garden tour, then a nap in the shade."
+275,2027-08-02,clear,13.8,26,7.1,2.6,1.9,100,22.1,63,111,0,97,83,1,"Longhouse (storm-proof hall): 35% built. 14 kg fish, 26 coconuts."
+276,2027-08-03,clear,16.5,21,6.9,1.5,2.7,100,22.1,61,111,0,97,83,0,Kofi is back on his feet.
+277,2027-08-04,clear,19.8,20,9.7,3.3,2.5,100,22.4,58,111,0,97,83,0,"Longhouse (storm-proof hall): 41% built. 20 kg fish, 20 coconuts."
+278,2027-08-05,clear,17.7,24,5.9,1.6,3.1,100,22.5,55,111,0,98,83,0,"Longhouse (storm-proof hall): 44% built. 18 kg fish, 24 coconuts."
+279,2027-08-06,cloudy,10.7,30,10.7,1.9,2.1,100,22.7,52,111,0,98,83,0,"Longhouse (storm-proof hall): 46% built. 11 kg fish, 30 coconuts."
+280,2027-08-07,rain,7.9,17,4.6,1.8,2.5,100,22.3,50,111,0,98,85,0,Finished: Tree nursery and replanting.
+281,2027-08-08,cloudy,8.6,19,12.4,3.0,3.1,100,22.2,50,111,1,98,85,0,"Sunday. Walt's garden tour, then a nap in the shade."
+282,2027-08-09,clear,16.5,21,7.9,4.1,2.8,100,22.4,46,111,2,98,88,0,Finished: Garden terrace 5.
+283,2027-08-10,clear,9.9,14,7.8,3.1,2.5,100,22.1,53,114,5,98,88,0,"Longhouse (storm-proof hall): 52% built. 10 kg fish, 14 coconuts."
+284,2027-08-11,clear,20.2,24,11.4,2.0,3.4,100,22.5,64,118,5,98,87,0,"Longhouse (storm-proof hall): 53% built. 20 kg fish, 24 coconuts."
+285,2027-08-12,cloudy,15.7,18,15.9,2.2,2.7,100,22.8,67,120,6,98,90,0,Priya turned 36. Elena baked coconut cake on a hot stone.
+286,2027-08-13,rain,14.9,13,8.1,2.7,1.8,100,22.6,71,122,7,98,90,0,Rain all day. The cistern is full.
+287,2027-08-14,rain,11.1,14,4.1,2.4,2.4,100,22.3,69,122,10,98,89,0,"Longhouse (storm-proof hall): 60% built. 11 kg fish, 14 coconuts."
+288,2027-08-15,clear,16.0,27,14.3,3.3,3.4,100,22.7,69,122,12,98,89,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+289,2027-08-16,clear,15.8,19,8.0,4.1,5.0,100,22.9,65,122,12,98,88,0,"Longhouse (storm-proof hall): 63% built. 16 kg fish, 19 coconuts."
+290,2027-08-17,clear,13.8,14,9.8,2.2,5.5,100,22.9,63,122,15,98,87,1,Priya is laid up with an infected coral cut.
+291,2027-08-18,rain,16.7,11,4.9,0.9,3.1,100,22.6,61,122,15,97,87,2,Nia is laid up with a stomach bug.
+292,2027-08-19,clear,16.7,24,12.5,4.1,4.3,100,23.1,59,122,16,97,86,2,"Longhouse (storm-proof hall): 65% built. 17 kg fish, 24 coconuts."
+293,2027-08-20,clear,11.8,20,6.9,1.4,5.6,100,23.0,57,122,18,97,86,2,"Longhouse (storm-proof hall): 66% built. 12 kg fish, 20 coconuts."
+294,2027-08-21,storm,0.0,0,0.0,0.0,3.2,100,21.8,57,122,18,97,86,1,A squall tore through camp overnight. Repairs needed.
+295,2027-08-22,cloudy,11.2,20,10.1,2.8,5.6,100,21.9,69,126,19,97,85,0,"Sunday. Walt's garden tour, then a nap in the shade."
+296,2027-08-23,rain,11.1,17,7.8,2.3,4.7,100,21.8,75,128,20,97,85,0,Repairs finished on the palm-frond lean-to.
+297,2027-08-24,cloudy,11.8,19,15.4,3.0,5.5,100,22.0,81,130,21,97,85,0,Repairs finished on the garden terrace 1.
+298,2027-08-25,cloudy,15.6,21,10.8,3.8,4.8,100,22.3,86,132,21,97,84,0,Repairs finished on the sleeping hut 1.
+299,2027-08-26,cloudy,17.8,18,13.0,3.5,6.3,100,22.7,85,132,22,98,84,0,Repairs finished on the sleeping hut 3.
+300,2027-08-27,clear,13.9,28,9.7,4.2,5.8,100,23.1,85,132,25,98,84,0,Repairs finished on the infirmary hut.
+301,2027-08-28,cloudy,15.1,14,7.0,3.1,5.3,100,23.0,85,132,26,98,83,0,Repairs finished on the dugout canoe.
+302,2027-08-29,clear,11.4,25,11.0,3.5,5.3,100,23.3,85,132,26,98,83,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+303,2027-08-30,clear,23.4,31,8.3,4.0,5.0,100,24.0,81,132,28,98,77,0,"A jet contrail, very high, heading south. Nobody saw it turn."
+304,2027-08-31,rain,10.9,10,4.4,1.3,3.8,100,23.5,79,132,30,98,77,0,"Longhouse (storm-proof hall): 71% built. 11 kg fish, 10 coconuts."
+305,2027-09-01,clear,16.8,15,4.6,2.3,4.8,100,23.4,75,132,33,98,77,0,"Longhouse (storm-proof hall): 74% built. 17 kg fish, 15 coconuts."
+306,2027-09-02,clear,18.3,21,6.4,1.6,5.7,100,23.6,72,132,34,98,77,0,"Longhouse (storm-proof hall): 77% built. 18 kg fish, 21 coconuts."
+307,2027-09-03,clear,11.6,16,9.8,1.6,6.0,100,23.5,68,132,36,98,77,0,"Longhouse (storm-proof hall): 80% built. 12 kg fish, 16 coconuts."
+308,2027-09-04,clear,15.0,25,8.1,4.0,5.5,100,23.8,64,132,36,98,77,0,"Longhouse (storm-proof hall): 83% built. 15 kg fish, 25 coconuts."
+309,2027-09-05,clear,21.5,24,11.2,3.8,6.3,100,24.4,64,132,39,98,78,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+310,2027-09-06,rain,15.9,12,2.9,2.5,4.1,100,24.1,62,132,40,99,78,0,"Longhouse (storm-proof hall): 85% built. 16 kg fish, 12 coconuts."
+311,2027-09-07,rain,9.0,15,3.0,2.6,4.8,100,23.7,59,132,42,99,78,0,"Longhouse (storm-proof hall): 87% built. 9 kg fish, 15 coconuts."
+312,2027-09-08,cloudy,13.9,22,9.1,2.9,7.2,100,24.0,55,132,45,99,78,0,"Longhouse (storm-proof hall): 90% built. 14 kg fish, 22 coconuts."
+313,2027-09-09,clear,14.4,20,5.6,1.3,9.6,100,24.1,52,132,46,99,78,0,"Longhouse (storm-proof hall): 92% built. 14 kg fish, 20 coconuts."
+314,2027-09-10,clear,10.6,22,9.6,1.3,8.6,100,24.1,48,132,48,99,81,0,Finished: Garden terrace 6.
+315,2027-09-11,clear,14.6,25,6.4,1.3,7.8,100,24.3,43,132,48,99,81,0,"Longhouse (storm-proof hall): 99% built. 15 kg fish, 25 coconuts."
+316,2027-09-12,clear,18.3,25,8.4,3.8,8.4,100,24.8,43,132,49,99,81,0,Sunday rest. June held class on the beach; Kofi taught knots.
+317,2027-09-13,clear,11.4,15,8.0,1.3,8.7,100,24.7,38,132,50,99,83,0,Finished: Longhouse (storm-proof hall).
+318,2027-09-14,clear,14.2,30,9.8,4.3,8.0,100,25.2,33,132,50,99,83,0,"Lagoon dock: 84% built. 14 kg fish, 30 coconuts."
+319,2027-09-15,clear,13.5,15,9.1,1.7,9.0,100,25.2,27,132,52,99,83,0,"Lagoon dock: 99% built. 14 kg fish, 15 coconuts."
+320,2027-09-16,cloudy,11.5,26,7.5,1.6,8.3,100,25.3,22,132,52,99,86,0,Finished: Lagoon dock.
+321,2027-09-17,clear,9.0,85,26.6,10.0,8.4,100,27.6,22,132,53,99,86,0,"A quiet day. 9 kg fish, 85 coconuts gathered."
+322,2027-09-18,rain,11.2,39,13.8,6.6,4.9,100,28.2,22,132,56,99,86,0,"A quiet day. 11 kg fish, 39 coconuts gathered."
+323,2027-09-19,cloudy,13.2,20,6.4,3.2,8.5,100,28.3,22,132,58,99,86,0,"Sunday. Walt's garden tour, then a nap in the shade."
+324,2027-09-20,clear,13.3,102,32.8,12.1,8.7,100,31.1,22,132,61,99,85,0,"A quiet day. 13 kg fish, 102 coconuts gathered."
+325,2027-09-21,clear,16.9,58,17.6,9.3,6.8,100,32.6,22,132,62,99,89,0,Tomas turned 43. Elena baked coconut cake on a hot stone.
+326,2027-09-22,clear,19.3,65,20.8,7.4,9.0,100,34.4,22,132,64,99,88,0,"A quiet day. 19 kg fish, 65 coconuts gathered."
+327,2027-09-23,rain,10.6,63,19.5,9.2,5.3,100,35.7,22,132,65,99,88,0,"A quiet day. 11 kg fish, 63 coconuts gathered."
+328,2027-09-24,clear,15.2,59,19.2,7.7,8.2,100,37.1,22,132,66,99,88,0,"A quiet day. 15 kg fish, 59 coconuts gathered."
+329,2027-09-25,clear,19.6,60,24.3,7.8,9.0,100,38.8,22,132,66,99,88,0,"A quiet day. 20 kg fish, 60 coconuts gathered."
+330,2027-09-26,cloudy,9.4,0,0.0,0.0,8.1,100,37.7,22,132,67,100,88,0,Sunday rest. June held class on the beach; Kofi taught knots.
+331,2027-09-27,clear,12.1,0,0.0,0.0,8.3,100,36.8,22,132,69,100,87,0,"Outrigger sailing canoe: 3% built. 12 kg fish, 0 coconuts."
+332,2027-09-28,clear,16.8,0,0.0,0.0,9.0,100,36.1,22,132,70,100,87,0,"Outrigger sailing canoe: 6% built. 17 kg fish, 0 coconuts."
+333,2027-09-29,clear,15.1,0,0.0,0.0,8.5,100,35.3,22,132,71,100,86,0,"Outrigger sailing canoe: 9% built. 15 kg fish, 0 coconuts."
+334,2027-09-30,rain,15.0,0,0.0,0.0,5.6,100,34.4,21,132,72,100,86,0,"Outrigger sailing canoe: 11% built. 15 kg fish, 0 coconuts."
+335,2027-10-01,clear,11.9,21,8.0,3.7,7.6,100,34.4,21,132,74,100,86,0,"Outrigger sailing canoe: 14% built. 12 kg fish, 21 coconuts."
+336,2027-10-02,clear,15.6,28,5.4,2.2,6.8,100,34.5,21,132,75,100,89,0,June turned 45. Elena baked coconut cake on a hot stone.
+337,2027-10-03,clear,12.4,21,9.9,2.5,6.9,100,34.4,21,132,77,100,89,0,"Sunday. Walt's garden tour, then a nap in the shade."
+338,2027-10-04,clear,12.1,21,5.7,3.0,7.3,100,34.3,21,132,78,100,89,0,"Outrigger sailing canoe: 19% built. 12 kg fish, 21 coconuts."
+339,2027-10-05,clear,15.2,24,10.3,2.3,7.4,100,34.4,21,132,81,100,88,0,"Outrigger sailing canoe: 21% built. 15 kg fish, 24 coconuts."
+340,2027-10-06,clear,20.0,14,9.1,1.4,9.5,100,34.5,21,132,81,100,88,0,"Outrigger sailing canoe: 24% built. 20 kg fish, 14 coconuts."
+341,2027-10-07,clear,14.3,24,7.3,3.6,6.8,100,34.5,20,132,82,100,87,0,"Outrigger sailing canoe: 26% built. 14 kg fish, 24 coconuts."
+342,2027-10-08,rain,8.8,14,4.6,2.8,6.4,100,34.1,20,132,85,100,87,0,"Outrigger sailing canoe: 28% built. 9 kg fish, 14 coconuts."
+343,2027-10-09,storm,0.0,0,0.0,0.0,4.7,100,32.7,20,132,85,100,87,0,A squall tore through camp overnight. Repairs needed.
+344,2027-10-10,rain,14.2,10,3.4,1.6,5.8,100,32.2,29,135,86,100,87,0,"Sunday. No building today: fishing, swimming and a long supper."
+345,2027-10-11,clear,17.2,24,11.4,2.5,8.5,100,32.5,44,140,89,100,87,0,Repairs finished on the palm-frond lean-to.
+346,2027-10-12,rain,10.6,15,6.1,2.8,7.4,100,32.3,47,141,92,100,86,0,Repairs finished on the smokehouse.
+347,2027-10-13,rain,12.5,14,3.6,2.3,5.6,100,31.9,50,142,93,100,86,0,Repairs finished on the lagoon fish weir.
+348,2027-10-14,clear,10.1,19,9.6,3.3,7.9,100,31.8,48,142,96,100,85,0,Repairs finished on the sleeping hut 2.
+349,2027-10-15,cloudy,16.7,25,7.3,3.1,9.6,100,32.1,47,142,98,100,85,0,Repairs finished on the sleeping hut 3.
+350,2027-10-16,rain,9.1,10,4.3,2.8,7.0,100,31.6,47,142,98,100,84,0,Repairs finished on the shade house and classroom.
+351,2027-10-17,rain,11.9,12,6.2,3.3,5.3,100,31.3,47,142,99,100,84,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+352,2027-10-18,clear,14.8,22,9.0,3.2,8.6,100,31.4,47,142,100,100,84,0,Repairs finished on the dugout canoe.
+353,2027-10-19,rain,12.5,17,5.6,2.4,6.3,100,31.2,46,142,101,100,83,0,Repairs finished on the lagoon dock.
+354,2027-10-20,clear,11.8,22,5.8,4.7,9.3,100,31.3,46,142,103,100,83,0,"Outrigger sailing canoe: 31% built. 12 kg fish, 22 coconuts."
+355,2027-10-21,clear,15.4,16,4.1,2.1,6.7,100,31.1,46,142,104,100,83,0,"Outrigger sailing canoe: 34% built. 15 kg fish, 16 coconuts."
+356,2027-10-22,cloudy,15.4,26,4.2,3.3,8.0,100,31.2,46,142,106,100,83,0,"Outrigger sailing canoe: 36% built. 15 kg fish, 26 coconuts."
+357,2027-10-23,cloudy,12.9,24,10.6,2.8,8.9,100,31.4,46,142,109,100,82,0,"Outrigger sailing canoe: 39% built. 13 kg fish, 24 coconuts."
+358,2027-10-24,rain,8.7,13,5.8,2.5,5.8,100,31.0,46,142,110,100,82,0,Sunday rest. June held class on the beach; Kofi taught knots.
+359,2027-10-25,cloudy,10.3,22,8.3,2.6,11.4,100,31.1,46,142,111,100,82,0,"Outrigger sailing canoe: 41% built. 10 kg fish, 22 coconuts."
+360,2027-10-26,cloudy,15.7,19,10.7,3.3,10.6,100,31.3,45,142,112,100,82,0,"Outrigger sailing canoe: 44% built. 16 kg fish, 19 coconuts."
+361,2027-10-27,clear,13.8,22,7.7,2.3,11.0,100,31.5,45,142,113,100,82,0,"Outrigger sailing canoe: 47% built. 14 kg fish, 22 coconuts."
+362,2027-10-28,clear,20.1,18,5.8,2.1,11.8,100,31.7,45,142,114,100,82,0,"Outrigger sailing canoe: 49% built. 20 kg fish, 18 coconuts."
+363,2027-10-29,clear,18.3,27,11.5,3.8,12.0,100,32.3,45,142,117,100,82,0,"Outrigger sailing canoe: 52% built. 18 kg fish, 27 coconuts."
+364,2027-10-30,cloudy,18.0,19,4.1,4.1,11.8,100,32.5,45,142,119,100,82,0,"Outrigger sailing canoe: 54% built. 18 kg fish, 19 coconuts."
+365,2027-10-31,cloudy,15.9,24,6.2,1.8,9.8,100,32.6,45,142,119,100,92,0,"One year. A feast of smoked fish, breadfruit and roast taro."
+366,2027-11-01,rain,10.9,18,9.5,3.5,8.4,100,32.5,45,142,120,100,92,0,"Outrigger sailing canoe: 56% built. 11 kg fish, 18 coconuts."
+367,2027-11-02,rain,8.7,11,7.2,2.6,7.6,100,32.1,45,142,122,100,91,0,"Outrigger sailing canoe: 58% built. 9 kg fish, 11 coconuts."
+368,2027-11-03,rain,10.8,16,4.1,0.9,7.8,100,31.7,44,142,122,100,90,0,"Outrigger sailing canoe: 60% built. 11 kg fish, 16 coconuts."
+369,2027-11-04,rain,14.5,19,9.1,1.3,8.7,100,31.7,44,142,122,100,90,0,"Outrigger sailing canoe: 62% built. 14 kg fish, 19 coconuts."
+370,2027-11-05,clear,11.7,21,6.6,2.1,10.0,100,31.7,44,142,122,100,90,0,"Outrigger sailing canoe: 64% built. 12 kg fish, 21 coconuts."
+371,2027-11-06,rain,12.1,18,5.3,1.6,8.9,100,31.5,44,142,125,100,89,0,"Outrigger sailing canoe: 66% built. 12 kg fish, 18 coconuts."
+372,2027-11-07,clear,12.9,31,7.3,4.2,11.8,100,31.9,44,142,126,100,88,0,"Sunday. Walt's garden tour, then a nap in the shade."
+373,2027-11-08,cloudy,15.1,18,6.9,3.8,9.7,100,32.0,44,142,127,100,88,0,"Outrigger sailing canoe: 69% built. 15 kg fish, 18 coconuts."
+374,2027-11-09,rain,16.8,13,4.6,1.4,9.4,100,31.8,44,142,130,100,88,0,Rain all day. The cistern is full.
+375,2027-11-10,rain,15.8,22,10.6,1.1,9.2,100,32.0,44,142,130,100,87,0,"Outrigger sailing canoe: 72% built. 16 kg fish, 22 coconuts."
+376,2027-11-11,rain,11.3,15,6.7,1.6,9.1,100,31.8,44,142,133,100,87,0,"Outrigger sailing canoe: 74% built. 11 kg fish, 15 coconuts."
+377,2027-11-12,rain,13.6,10,5.4,1.6,7.7,100,31.4,44,142,134,100,87,0,"Outrigger sailing canoe: 76% built. 14 kg fish, 10 coconuts."
+378,2027-11-13,clear,15.6,22,6.8,5.0,10.1,100,31.6,43,142,137,100,86,0,"Outrigger sailing canoe: 78% built. 16 kg fish, 22 coconuts."
+379,2027-11-14,storm,0.0,0,0.0,0.0,6.4,100,30.4,43,142,137,100,86,0,A squall tore through camp overnight. Repairs needed.
+380,2027-11-15,rain,10.0,18,8.6,2.6,8.5,100,30.2,46,143,138,100,86,0,Repairs finished on the palm-frond lean-to.
+381,2027-11-16,rain,11.5,12,10.4,1.4,7.0,100,30.0,46,143,141,100,86,0,Repairs finished on the lagoon fish weir.
+382,2027-11-17,cloudy,17.1,26,8.1,3.2,11.1,100,30.4,45,143,141,100,85,0,Repairs finished on the bamboo aqueduct and cistern.
+383,2027-11-18,cloudy,10.2,22,7.8,2.3,9.2,100,30.4,44,143,142,100,84,0,Repairs finished on the garden terrace 3.
+384,2027-11-19,clear,13.7,24,10.3,3.4,11.4,100,30.7,44,143,145,100,84,0,Repairs finished on the tree nursery and replanting.
+385,2027-11-20,clear,11.9,22,7.0,2.2,11.2,100,30.8,43,143,145,100,83,0,Repairs finished on the lagoon dock.
+386,2027-11-21,rain,9.3,15,6.4,1.2,7.3,100,30.4,43,143,145,100,83,0,"Sunday. No building today: fishing, swimming and a long supper."
+387,2027-11-22,cloudy,13.4,18,8.2,4.2,9.6,100,30.5,43,143,147,100,83,0,"Outrigger sailing canoe: 81% built. 13 kg fish, 18 coconuts."
+388,2027-11-23,rain,14.8,11,5.8,1.4,8.4,100,30.3,42,143,147,100,67,0,"A fishing boat on the horizon at dusk. Beacon lit, smoke rising. It turned away."
+389,2027-11-24,rain,11.0,15,9.1,1.8,9.3,100,30.1,42,143,150,100,68,0,"Outrigger sailing canoe: 84% built. 11 kg fish, 15 coconuts."
+390,2027-11-25,cloudy,15.3,33,7.4,3.9,9.6,100,30.6,41,143,151,100,73,0,Lucy turned 25. Elena baked coconut cake on a hot stone.
+391,2027-11-26,clear,17.9,25,7.2,2.1,10.4,100,30.9,40,143,154,100,73,0,"Outrigger sailing canoe: 88% built. 18 kg fish, 25 coconuts."
+392,2027-11-27,clear,10.3,19,11.5,3.0,10.5,100,31.0,39,143,156,100,74,0,"Outrigger sailing canoe: 90% built. 10 kg fish, 19 coconuts."
+393,2027-11-28,rain,8.1,12,7.2,2.9,9.3,100,30.6,39,143,156,100,74,0,"Sunday. No building today: fishing, swimming and a long supper."
+394,2027-11-29,cloudy,15.3,22,12.2,2.9,15.2,100,31.1,39,143,158,100,74,0,"Outrigger sailing canoe: 92% built. 15 kg fish, 22 coconuts."
+395,2027-11-30,rain,10.9,16,6.5,2.9,10.8,100,31.0,38,143,159,100,78,0,Finished: Memorial garden and bell.
+396,2027-12-01,rain,9.1,20,6.3,2.7,8.8,100,30.8,38,143,160,100,78,0,Rain all day. The cistern is full.
+397,2027-12-02,cloudy,12.2,21,10.3,3.8,15.1,100,31.1,38,143,161,100,78,0,"Outrigger sailing canoe: 98% built. 12 kg fish, 21 coconuts."
+398,2027-12-03,cloudy,11.8,16,8.9,1.9,14.1,100,31.2,38,143,162,100,81,0,Finished: Outrigger sailing canoe.
+399,2027-12-04,clear,19.0,83,39.9,12.5,15.2,100,33.7,38,143,163,100,81,0,"A quiet day. 19 kg fish, 83 coconuts gathered."
+400,2027-12-05,clear,15.4,16,7.3,2.9,12.0,100,33.7,38,143,165,100,81,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+401,2027-12-06,cloudy,22.6,60,24.7,7.2,13.0,100,35.5,38,143,167,100,81,0,Big day on the water: 23 kg of fish from the outrigger.
+402,2027-12-07,clear,12.2,75,31.7,9.6,14.4,100,37.6,38,143,167,100,81,0,"A quiet day. 12 kg fish, 75 coconuts gathered."
+403,2027-12-08,storm,0.0,0,0.0,0.0,8.0,100,36.3,38,143,167,100,81,0,A squall tore through camp overnight. Repairs needed.
+404,2027-12-09,rain,7.9,10,6.8,2.6,11.1,100,35.8,43,145,168,100,85,0,Hana turned 29. Elena baked coconut cake on a hot stone.
+405,2027-12-10,cloudy,29.2,21,12.6,3.1,11.7,100,36.5,43,145,171,100,85,0,Repairs finished on the lagoon fish weir.
+406,2027-12-11,clear,19.1,18,5.6,2.2,13.1,100,36.6,42,145,172,100,85,0,Repairs finished on the sleeping hut 1.
+407,2027-12-12,clear,17.7,19,8.3,1.8,13.1,100,36.8,42,145,173,100,85,0,Sunday rest. June held class on the beach; Kofi taught knots.
+408,2027-12-13,clear,15.1,33,15.0,4.4,12.2,100,37.4,41,145,173,100,84,0,Repairs finished on the salt evaporation pans.
+409,2027-12-14,cloudy,12.6,15,10.5,2.5,13.1,100,37.4,41,145,174,100,84,0,Repairs finished on the shade house and classroom.
+410,2027-12-15,rain,13.1,18,4.7,2.4,9.8,100,37.2,41,145,177,100,84,0,Repairs finished on the dugout canoe.
+411,2027-12-16,clear,11.7,30,11.9,2.3,11.3,100,37.4,41,145,178,100,84,0,Repairs finished on the garden terrace 4.
+412,2027-12-17,rain,13.1,16,6.2,0.9,10.9,100,37.2,41,145,178,100,97,0,Marcus and Lucy were married on the beach. Captain Ray officiated.
+413,2027-12-18,cloudy,16.3,15,7.9,2.2,12.0,100,37.2,41,145,180,100,96,0,"A quiet day. 16 kg fish, 15 coconuts gathered."
+414,2027-12-19,storm,0.0,0,0.0,0.0,8.7,100,35.8,41,145,180,100,95,0,A squall tore through camp overnight. Repairs needed.
+415,2027-12-20,clear,16.7,19,7.5,2.6,13.9,100,36.0,46,147,182,100,94,0,Repairs finished on the palm-frond lean-to.
+416,2027-12-21,clear,16.3,24,10.0,1.7,12.5,100,36.3,46,147,185,100,93,0,Repairs finished on the bamboo aqueduct and cistern.
+417,2027-12-22,clear,14.9,19,7.3,4.6,10.9,100,36.3,45,147,186,100,92,0,Repairs finished on the salt evaporation pans.
+418,2027-12-23,rain,12.6,15,6.9,2.1,10.3,100,36.1,45,147,187,100,92,0,Repairs finished on the garden terrace 3.
+419,2027-12-24,clear,15.4,15,13.4,4.0,12.1,100,36.3,45,147,189,100,91,0,Repairs finished on the dugout canoe.
+420,2027-12-25,cloudy,12.4,18,14.3,4.7,12.6,100,36.5,45,147,189,100,90,0,Repairs finished on the tree nursery and replanting.
+421,2027-12-26,clear,14.2,19,11.2,2.1,13.3,100,36.6,45,147,190,100,90,0,Sunday rest. June held class on the beach; Kofi taught knots.
+422,2027-12-27,clear,9.7,18,8.2,2.3,13.4,100,36.5,45,147,190,100,89,0,"A quiet day. 10 kg fish, 18 coconuts gathered."
+423,2027-12-28,clear,15.6,19,9.9,3.4,13.1,100,36.7,45,147,190,100,88,0,"A quiet day. 16 kg fish, 19 coconuts gathered."
+424,2027-12-29,clear,18.8,16,7.8,3.7,12.7,100,36.8,45,147,193,100,88,0,Repairs finished on the outrigger sailing canoe.
+425,2027-12-30,clear,21.3,64,28.5,7.2,15.8,100,38.6,45,147,193,100,87,0,"A quiet day. 21 kg fish, 64 coconuts gathered."
+426,2027-12-31,cloudy,14.0,77,41.3,12.3,16.6,100,40.9,45,147,194,100,87,0,"A quiet day. 14 kg fish, 77 coconuts gathered."
+427,2028-01-01,rain,14.5,37,15.5,5.3,13.5,100,41.6,45,147,197,100,87,0,"A quiet day. 14 kg fish, 37 coconuts gathered."
+428,2028-01-02,clear,20.9,14,9.6,4.2,15.3,100,41.8,45,147,198,100,87,0,"Sunday. Walt's garden tour, then a nap in the shade."
+429,2028-01-03,cloudy,18.0,83,42.6,11.6,15.7,100,44.1,45,147,199,100,86,0,"A quiet day. 18 kg fish, 83 coconuts gathered."
+430,2028-01-04,clear,18.9,64,30.6,6.6,16.0,100,45.8,45,147,199,100,86,0,"A quiet day. 19 kg fish, 64 coconuts gathered."
+431,2028-01-05,rain,16.9,29,17.7,2.8,12.5,100,46.3,45,147,199,99,85,1,Kofi was stung by a stonefish. Hot-water treatment through the night.
+432,2028-01-06,rain,14.4,37,19.1,4.6,13.2,100,46.9,45,147,202,99,85,1,"A quiet day. 14 kg fish, 37 coconuts gathered."
+433,2028-01-07,rain,12.0,31,12.1,3.5,13.7,100,47.2,45,147,205,99,85,1,"A quiet day. 12 kg fish, 31 coconuts gathered."
+434,2028-01-08,cloudy,18.5,52,21.9,4.1,17.9,100,48.5,45,147,206,99,84,1,"A quiet day. 18 kg fish, 52 coconuts gathered."
+435,2028-01-09,rain,15.5,0,0.0,0.0,13.0,100,47.7,45,147,207,99,84,1,"Sunday. No building today: fishing, swimming and a long supper."
+436,2028-01-10,clear,19.2,43,21.8,4.5,18.2,100,48.8,45,147,207,99,84,1,"A quiet day. 19 kg fish, 43 coconuts gathered."
+437,2028-01-11,rain,9.8,30,14.7,3.5,12.1,100,48.9,45,147,208,99,84,1,"A quiet day. 10 kg fish, 30 coconuts gathered."
+438,2028-01-12,cloudy,13.6,50,20.3,7.5,15.7,100,50.1,45,147,209,99,84,1,"A quiet day. 14 kg fish, 50 coconuts gathered."
+439,2028-01-13,rain,16.9,44,18.3,5.1,12.8,100,50.9,45,147,210,99,83,0,Kofi is back on his feet.
+440,2028-01-14,clear,17.7,58,20.9,9.2,19.0,100,52.5,45,147,212,99,83,0,"A quiet day. 18 kg fish, 58 coconuts gathered."
+441,2028-01-15,rain,9.9,55,32.2,6.1,14.1,100,53.7,45,147,213,99,83,0,"A quiet day. 10 kg fish, 55 coconuts gathered."
+442,2028-01-16,cloudy,19.3,0,0.0,0.0,15.6,100,53.0,45,147,215,99,83,0,"Sunday. Walt's garden tour, then a nap in the shade."
+443,2028-01-17,clear,16.7,57,31.0,9.1,15.5,100,54.4,45,147,216,99,83,0,"A quiet day. 17 kg fish, 57 coconuts gathered."
+444,2028-01-18,rain,12.1,65,29.2,6.3,12.1,100,55.8,45,147,219,99,83,0,"A quiet day. 12 kg fish, 65 coconuts gathered."
+445,2028-01-19,cloudy,18.7,56,33.6,11.4,16.1,100,57.3,45,147,222,99,83,0,"A quiet day. 19 kg fish, 56 coconuts gathered."
+446,2028-01-20,cloudy,19.3,64,20.0,8.3,15.9,100,58.8,45,147,224,99,83,0,"A quiet day. 19 kg fish, 64 coconuts gathered."
+447,2028-01-21,clear,16.3,96,42.1,13.4,17.3,100,61.1,45,147,224,99,82,0,"A quiet day. 16 kg fish, 96 coconuts gathered."
+448,2028-01-22,rain,10.5,45,24.0,4.4,11.9,100,61.7,45,147,225,99,82,0,"A quiet day. 10 kg fish, 45 coconuts gathered."
+449,2028-01-23,clear,23.2,0,0.0,0.0,17.6,100,61.0,45,147,226,99,82,0,Big day on the water: 23 kg of fish from the outrigger.
+450,2028-01-24,cloudy,15.7,79,44.5,13.9,17.5,100,63.0,45,147,227,99,82,0,"A quiet day. 16 kg fish, 79 coconuts gathered."
+451,2028-01-25,rain,17.0,37,19.1,5.6,12.4,100,63.5,45,147,228,99,82,0,Rain all day. The cistern is full.
+452,2028-01-26,cloudy,20.0,54,22.5,9.4,18.7,100,64.7,45,147,231,99,82,0,"A quiet day. 20 kg fish, 54 coconuts gathered."
+453,2028-01-27,cloudy,18.8,88,29.0,11.9,16.7,100,66.8,45,147,234,99,86,0,Marcus turned 31. Elena baked coconut cake on a hot stone.
+454,2028-01-28,rain,17.0,47,20.7,5.4,14.4,100,67.5,45,147,235,99,85,0,"A quiet day. 17 kg fish, 47 coconuts gathered."
+455,2028-01-29,clear,17.2,67,24.8,9.1,13.6,100,68.9,45,147,236,100,85,0,"A quiet day. 17 kg fish, 67 coconuts gathered."
+456,2028-01-30,rain,16.3,0,0.0,0.0,15.1,100,67.8,45,147,238,99,85,1,Tomas is laid up with sunstroke.
+457,2028-01-31,cloudy,24.1,32,16.0,3.9,14.9,100,68.3,45,147,239,99,85,1,Big day on the water: 24 kg of fish from the outrigger.
+458,2028-02-01,rain,13.1,45,18.5,6.4,12.4,100,68.8,45,147,240,99,84,0,Tomas is back on his feet.
+459,2028-02-02,rain,11.7,72,32.6,8.5,13.2,100,70.2,45,147,243,99,84,0,"A quiet day. 12 kg fish, 72 coconuts gathered."
+460,2028-02-03,rain,19.6,40,17.5,4.5,13.0,100,70.7,45,147,245,99,84,0,"A quiet day. 20 kg fish, 40 coconuts gathered."
+461,2028-02-04,clear,15.4,59,30.0,8.0,17.3,100,71.9,45,147,246,99,83,0,"A quiet day. 15 kg fish, 59 coconuts gathered."
+462,2028-02-05,rain,16.1,53,30.8,6.6,10.2,100,72.8,45,147,247,99,83,0,Rain all day. The cistern is full.
+463,2028-02-06,rain,10.9,0,0.0,0.0,13.6,100,71.4,45,147,249,99,83,0,Sunday rest. June held class on the beach; Kofi taught knots.
+464,2028-02-07,clear,12.2,69,28.6,8.1,14.9,100,72.8,45,147,250,99,84,0,"A quiet day. 12 kg fish, 69 coconuts gathered."
+465,2028-02-08,storm,0.0,0,0.0,0.0,10.7,100,70.9,45,147,250,99,84,0,A squall tore through camp overnight. Repairs needed.
+466,2028-02-09,cyclone,0.0,0,0.0,0.0,9.0,100,69.0,45,147,250,99,77,0,Second cyclone. The longhouse held. Everyone rode it out inside.
+467,2028-02-10,rain,12.7,0,0.0,0.0,6.8,100,67.6,63,153,253,99,77,0,"A quiet day. 13 kg fish, 0 coconuts gathered."
+468,2028-02-11,rain,5.5,0,0.0,0.0,7.7,100,65.9,72,156,256,99,78,0,Repairs finished on the palm-frond lean-to.
+469,2028-02-12,cloudy,10.8,0,0.0,0.0,9.0,100,64.5,83,160,259,99,78,0,Repairs finished on the summit signal beacon.
+470,2028-02-13,rain,10.6,0,0.0,0.0,6.9,100,63.0,92,163,261,99,78,0,Sunday rest. June held class on the beach; Kofi taught knots.
+471,2028-02-14,clear,13.3,0,0.0,0.0,8.5,100,61.7,101,166,263,99,83,0,Ray turned 56. Elena baked coconut cake on a hot stone.
+472,2028-02-15,cloudy,13.3,0,0.0,0.0,7.5,100,60.4,107,168,265,99,82,0,Repairs finished on the lagoon fish weir.
+473,2028-02-16,clear,18.6,0,0.0,0.0,9.2,100,59.4,105,168,265,99,82,0,Repairs finished on the sleeping hut 1.
+474,2028-02-17,clear,15.8,0,0.0,0.0,8.1,100,58.3,105,168,266,99,82,0,Repairs finished on the bamboo aqueduct and cistern.
+475,2028-02-18,clear,11.8,0,0.0,0.0,9.1,100,57.0,104,168,267,99,82,0,Repairs finished on the smokehouse.
+476,2028-02-19,clear,12.4,0,0.0,0.0,8.6,100,55.8,104,168,268,99,82,0,Repairs finished on the sleeping hut 2.
+477,2028-02-20,cloudy,15.6,0,0.0,0.0,7.6,100,54.7,104,168,270,100,82,0,"Sunday. Walt's garden tour, then a nap in the shade."
+478,2028-02-21,clear,23.8,0,0.0,0.0,8.4,100,53.9,104,168,273,100,82,0,Repairs finished on the garden terrace 1.
+479,2028-02-22,rain,15.2,0,0.0,0.0,9.4,100,52.9,104,168,273,100,83,0,Repairs finished on the salt evaporation pans.
+480,2028-02-23,cloudy,23.4,0,0.0,0.0,9.8,100,52.2,103,168,274,100,82,0,Repairs finished on the sleeping hut 3.
+481,2028-02-24,storm,0.0,0,0.0,0.0,6.3,100,50.6,103,168,274,100,82,0,A squall tore through camp overnight. Repairs needed.
+482,2028-02-25,cloudy,16.5,0,0.0,0.0,9.0,100,49.6,111,171,277,100,82,0,Repairs finished on the latrine and wash area.
+483,2028-02-26,cloudy,17.2,0,0.0,0.0,8.0,100,48.7,110,171,277,100,82,0,Repairs finished on the bamboo aqueduct and cistern.
+484,2028-02-27,clear,15.9,0,0.0,0.0,8.1,100,47.7,110,171,278,100,82,0,"Sunday. Walt's garden tour, then a nap in the shade."
+485,2028-02-28,clear,15.4,0,0.0,0.0,8.0,100,46.8,109,171,278,100,82,0,Repairs finished on the giant sos on the beach.
+486,2028-02-29,rain,21.9,0,0.0,0.0,5.9,100,46.0,109,171,278,100,82,0,Repairs finished on the sleeping hut 3.
+487,2028-03-01,clear,16.9,0,0.0,0.0,9.0,100,45.2,109,171,281,100,82,0,Repairs finished on the garden terrace 2.
+488,2028-03-02,rain,10.5,0,0.0,0.0,7.3,100,44.1,109,171,284,100,82,0,"A quiet day. 10 kg fish, 0 coconuts gathered."
+489,2028-03-03,rain,12.8,23,4.4,2.9,8.5,100,43.9,108,171,287,100,82,0,Repairs finished on the sleeping hut 4.
+490,2028-03-04,rain,20.6,11,3.8,1.4,8.6,100,43.6,108,171,290,99,82,1,Walt is laid up with a stomach bug.
+491,2028-03-05,clear,20.5,25,8.4,1.3,8.8,100,43.8,108,171,291,99,82,1,Sunday rest. June held class on the beach; Kofi taught knots.
+492,2028-03-06,clear,17.0,31,10.9,2.1,10.7,100,44.1,108,171,292,99,82,1,"A quiet day. 17 kg fish, 31 coconuts gathered."
+493,2028-03-07,rain,13.8,9,2.5,1.3,8.4,100,43.6,108,171,293,99,82,1,"A quiet day. 14 kg fish, 9 coconuts gathered."
+494,2028-03-08,rain,17.1,13,3.6,1.6,8.4,100,43.2,108,171,296,99,82,1,Repairs finished on the garden terrace 3.
+495,2028-03-09,clear,20.0,18,5.9,2.2,11.2,100,43.3,108,171,297,99,82,0,Walt is back on his feet.
+496,2028-03-10,clear,14.3,16,5.2,3.6,11.0,100,43.1,108,171,299,99,82,0,"A quiet day. 14 kg fish, 16 coconuts gathered."
+497,2028-03-11,cloudy,16.2,18,6.9,4.0,10.7,100,43.1,108,171,300,99,82,0,Repairs finished on the shade house and classroom.
+498,2028-03-12,rain,8.5,14,6.0,1.6,8.2,100,42.5,108,171,300,98,81,1,Hana is laid up with a stomach bug.
+499,2028-03-13,rain,11.8,13,4.5,2.1,10.6,100,42.1,108,171,303,98,81,1,"A quiet day. 12 kg fish, 13 coconuts gathered."
+500,2028-03-14,rain,10.8,14,5.2,1.2,9.7,100,41.7,108,171,303,98,84,1,Day 500.
+501,2028-03-15,cloudy,15.7,21,7.9,3.7,11.8,100,41.8,108,171,305,98,84,0,Hana is back on her feet.
+502,2028-03-16,cloudy,16.4,21,4.1,1.9,11.1,100,41.8,108,171,307,98,84,0,"A quiet day. 16 kg fish, 21 coconuts gathered."
+503,2028-03-17,clear,22.8,22,8.5,1.8,11.1,100,42.1,108,171,307,98,83,0,Repairs finished on the garden terrace 4.
+504,2028-03-18,clear,16.9,19,5.2,2.4,11.1,100,42.0,108,171,310,98,83,0,Repairs finished on the river footbridge.
+505,2028-03-19,clear,14.8,22,6.1,1.8,13.8,100,42.1,108,171,311,98,84,0,"Sunday. No building today: fishing, swimming and a long supper."
+506,2028-03-20,cloudy,14.5,20,9.9,2.3,11.6,100,42.1,108,171,312,98,84,0,"A quiet day. 14 kg fish, 20 coconuts gathered."
+507,2028-03-21,cloudy,13.1,19,9.9,2.9,13.3,100,42.1,108,171,313,98,83,1,Marcus is laid up with a fever.
+508,2028-03-22,clear,17.5,26,8.3,3.2,14.0,100,42.5,108,171,314,97,87,2,June is laid up with sunstroke.
+509,2028-03-23,clear,16.8,18,8.3,4.0,11.7,100,42.6,108,171,315,97,86,2,"A quiet day. 17 kg fish, 18 coconuts gathered."
+510,2028-03-24,clear,21.9,28,6.8,4.9,11.3,100,43.1,108,171,315,97,86,1,Repairs finished on the tree nursery and replanting.
+511,2028-03-25,rain,10.1,15,6.3,1.4,11.9,100,42.7,108,171,316,97,85,1,Repairs finished on the garden terrace 5.
+512,2028-03-26,cloudy,17.3,16,7.2,3.7,15.0,100,42.8,108,171,319,97,86,0,"Sunday. Walt's garden tour, then a nap in the shade."
+513,2028-03-27,cloudy,12.3,24,9.0,1.8,14.7,100,42.9,108,171,322,97,86,0,"A quiet day. 12 kg fish, 24 coconuts gathered."
+514,2028-03-28,clear,18.8,26,8.2,1.9,15.3,100,43.2,108,171,325,97,85,0,"A quiet day. 19 kg fish, 26 coconuts gathered."
+515,2028-03-29,cloudy,15.4,21,4.5,2.8,17.1,100,43.3,108,171,326,97,84,0,"A quiet day. 15 kg fish, 21 coconuts gathered."
+516,2028-03-30,cloudy,11.2,24,6.7,2.9,13.3,100,43.3,106,171,329,97,84,0,Repairs finished on the lagoon dock.
+517,2028-03-31,rain,13.7,16,5.6,1.9,13.8,100,43.1,106,171,332,97,84,0,Rain all day. The cistern is full.
+518,2028-04-01,storm,0.0,0,0.0,0.0,8.6,100,41.7,106,171,332,98,84,0,A squall tore through camp overnight. Repairs needed.
+519,2028-04-02,clear,12.1,21,8.2,4.0,14.6,100,41.8,106,171,334,98,84,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+520,2028-04-03,rain,16.1,16,6.6,1.7,10.7,100,41.6,106,171,335,98,84,0,Repairs finished on the palm-frond lean-to.
+521,2028-04-04,rain,9.9,17,6.2,1.5,11.4,100,41.3,105,171,337,98,83,0,Repairs finished on the sleeping hut 1.
+522,2028-04-05,rain,13.4,13,3.6,2.3,10.4,100,40.9,105,171,338,98,83,0,Repairs finished on the bamboo aqueduct and cistern.
+523,2028-04-06,clear,17.9,21,4.4,2.4,13.5,100,41.0,104,171,339,98,82,0,Repairs finished on the garden terrace 1.
+524,2028-04-07,cloudy,15.6,24,7.9,1.4,16.0,100,41.2,104,171,341,98,82,0,Repairs finished on the infirmary hut.
+525,2028-04-08,clear,11.3,27,12.2,2.1,15.3,100,41.5,104,171,342,98,82,0,Repairs finished on the dugout canoe.
+526,2028-04-09,clear,17.9,19,5.3,1.2,14.3,100,41.5,104,171,343,98,83,0,"Sunday. Walt's garden tour, then a nap in the shade."
+527,2028-04-10,rain,18.0,18,5.6,1.8,11.4,100,41.5,104,171,344,98,83,0,Repairs finished on the garden terrace 5.
+528,2028-04-11,cloudy,16.1,22,11.0,3.7,15.4,100,41.8,103,171,347,98,82,0,Repairs finished on the lagoon dock.
+529,2028-04-12,rain,12.2,15,3.4,1.2,13.8,100,41.4,103,171,348,99,82,0,"A quiet day. 12 kg fish, 15 coconuts gathered."
+530,2028-04-13,rain,14.1,10,4.6,1.2,13.0,100,41.1,103,171,351,99,82,0,Repairs finished on the memorial garden and bell.
+531,2028-04-14,cloudy,12.8,22,12.0,2.6,14.3,100,41.2,103,171,354,99,82,0,"A quiet day. 13 kg fish, 22 coconuts gathered."
+532,2028-04-15,clear,20.5,21,8.6,2.5,14.2,100,41.5,103,171,355,99,82,0,"A quiet day. 20 kg fish, 21 coconuts gathered."
+533,2028-04-16,cloudy,21.0,20,6.6,4.1,16.0,100,41.9,103,171,356,99,83,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+534,2028-04-17,rain,11.2,13,4.7,3.0,13.0,100,41.5,103,171,357,99,83,0,"A quiet day. 11 kg fish, 13 coconuts gathered."
+535,2028-04-18,rain,13.0,10,5.1,1.3,13.9,100,41.2,103,171,357,99,82,0,"A quiet day. 13 kg fish, 10 coconuts gathered."
+536,2028-04-19,rain,12.8,17,5.2,1.0,12.0,100,40.9,103,171,358,99,83,0,"A quiet day. 13 kg fish, 17 coconuts gathered."
+537,2028-04-20,storm,0.0,0,0.0,0.0,11.7,100,39.6,103,171,358,99,82,0,A squall tore through camp overnight. Repairs needed.
+538,2028-04-21,rain,15.6,15,6.8,1.0,11.6,100,39.5,102,171,358,99,82,0,Repairs finished on the sleeping hut 1.
+539,2028-04-22,rain,12.8,14,6.0,2.2,12.6,100,39.2,102,171,360,99,82,0,Repairs finished on the bamboo aqueduct and cistern.
+540,2028-04-23,rain,14.4,16,4.4,1.2,14.6,100,39.1,102,171,362,99,82,0,Sunday rest. June held class on the beach; Kofi taught knots.
+541,2028-04-24,storm,0.0,0,0.0,0.0,9.3,100,37.8,102,171,362,99,82,0,A squall tore through camp overnight. Repairs needed.
+542,2028-04-25,clear,9.7,24,4.5,2.2,14.9,100,37.8,100,171,363,99,82,0,Repairs finished on the palm-frond lean-to.
+543,2028-04-26,rain,9.1,20,4.8,2.3,10.7,100,37.5,100,171,364,99,82,0,Repairs finished on the giant sos on the beach.
+544,2028-04-27,rain,16.9,15,6.7,1.2,12.9,100,37.5,100,171,365,99,82,0,Repairs finished on the sleeping hut 3.
+545,2028-04-28,rain,14.6,15,3.8,2.4,12.2,100,37.3,100,171,368,99,82,0,Repairs finished on the garden terrace 2.
+546,2028-04-29,rain,19.4,18,4.4,2.7,12.3,100,37.4,99,171,370,99,82,0,Repairs finished on the infirmary hut.
+547,2028-04-30,clear,25.8,19,6.2,3.4,15.2,100,37.9,99,171,372,99,86,0,Walt turned 69. Elena baked coconut cake on a hot stone.
+548,2028-05-01,clear,12.9,19,8.9,1.4,15.1,100,38.0,99,171,375,99,87,0,Eighteen months.
+549,2028-05-02,cloudy,15.0,19,8.2,1.9,17.0,100,38.1,99,171,377,100,87,0,Repairs finished on the lagoon dock.
+550,2028-05-03,clear,14.2,26,5.1,2.1,14.4,100,38.3,99,171,378,100,86,0,Repairs finished on the garden terrace 6.
+551,2028-05-04,clear,15.2,18,4.0,2.1,17.7,100,38.3,99,171,380,100,85,0,"A quiet day. 15 kg fish, 18 coconuts gathered."
+552,2028-05-05,storm,0.0,0,0.0,0.0,10.2,100,37.1,99,171,380,100,85,0,A squall tore through camp overnight. Repairs needed.
+553,2028-05-06,rain,11.0,15,3.1,1.0,13.4,100,36.7,98,171,380,100,85,0,Repairs finished on the palm-frond lean-to.
+554,2028-05-07,cloudy,16.7,20,4.0,3.9,16.2,100,37.0,98,171,381,100,85,0,"Sunday. Walt's garden tour, then a nap in the shade."
+555,2028-05-08,clear,13.9,30,8.7,2.8,14.6,100,37.3,97,171,383,100,84,0,Repairs finished on the lagoon fish weir.
+556,2028-05-09,clear,19.6,21,6.4,1.2,17.9,100,37.7,95,171,383,100,85,0,Repairs finished on the sleeping hut 2.
+557,2028-05-10,clear,19.6,14,8.0,2.7,17.3,100,37.9,94,171,386,100,84,0,Repairs finished on the garden terrace 3.
+558,2028-05-11,cloudy,11.1,31,7.7,2.7,17.4,100,38.3,94,171,387,100,84,0,Repairs finished on the garden terrace 4.
+559,2028-05-12,clear,15.0,21,6.5,1.6,17.0,100,38.4,94,171,388,100,84,0,"A quiet day. 15 kg fish, 21 coconuts gathered."
+560,2028-05-13,clear,26.0,26,8.5,3.5,17.7,100,39.2,94,171,391,100,83,0,Big day on the water: 26 kg of fish from the outrigger.
+561,2028-05-14,clear,20.9,33,9.2,4.4,16.3,100,39.9,94,171,394,100,83,0,Sunday rest. June held class on the beach; Kofi taught knots.
+562,2028-05-15,cloudy,15.5,19,9.0,3.5,14.6,100,40.1,94,171,395,100,83,0,"A quiet day. 16 kg fish, 19 coconuts gathered."
+563,2028-05-16,clear,24.2,24,6.2,1.8,15.9,100,40.5,94,171,397,100,83,0,Big day on the water: 24 kg of fish from the outrigger.
+564,2028-05-17,clear,14.2,28,10.5,4.2,18.0,100,41.0,94,171,399,100,83,0,Repairs finished on the outrigger sailing canoe.
+565,2028-05-18,cloudy,22.7,59,18.8,8.1,15.9,100,42.7,94,171,402,100,87,0,Kofi turned 40. Elena baked coconut cake on a hot stone.
+566,2028-05-19,clear,19.1,63,17.6,8.1,15.1,100,44.3,94,171,403,100,86,0,"A quiet day. 19 kg fish, 63 coconuts gathered."
+567,2028-05-20,cloudy,12.9,89,33.1,9.7,18.2,100,46.7,94,171,404,100,86,0,"A quiet day. 13 kg fish, 89 coconuts gathered."
+568,2028-05-21,clear,12.5,0,0.0,0.0,17.2,100,45.9,94,171,405,100,86,0,Sunday rest. June held class on the beach; Kofi taught knots.
+569,2028-05-22,clear,18.6,53,18.1,7.1,15.7,100,47.3,94,171,407,100,86,0,"A quiet day. 19 kg fish, 53 coconuts gathered."
+570,2028-05-23,clear,18.5,79,32.8,9.7,15.8,100,49.3,94,171,408,100,85,0,"A quiet day. 18 kg fish, 79 coconuts gathered."
+571,2028-05-24,rain,12.3,39,12.7,4.7,14.8,100,49.8,94,171,409,100,85,0,"A quiet day. 12 kg fish, 39 coconuts gathered."
+572,2028-05-25,clear,17.4,70,16.3,6.1,15.1,100,51.3,94,171,410,100,85,0,"A quiet day. 17 kg fish, 70 coconuts gathered."
+573,2028-05-26,cloudy,26.0,56,26.3,7.2,18.1,100,52.8,94,171,411,100,84,0,Big day on the water: 26 kg of fish from the outrigger.
+574,2028-05-27,rain,16.0,40,15.2,5.9,12.4,100,53.4,94,171,412,100,83,0,"A quiet day. 16 kg fish, 40 coconuts gathered."
+575,2028-05-28,rain,12.6,0,0.0,0.0,11.5,100,52.3,94,171,413,100,84,0,Sunday rest. June held class on the beach; Kofi taught knots.
+576,2028-05-29,cloudy,24.5,75,32.7,13.1,16.5,100,54.3,94,171,414,100,84,0,Big day on the water: 24 kg of fish from the outrigger.
+577,2028-05-30,clear,22.0,59,19.9,9.4,15.9,100,55.8,94,171,414,100,83,0,Big day on the water: 22 kg of fish from the outrigger.
+578,2028-05-31,clear,25.4,63,20.2,7.7,17.8,100,57.3,94,171,415,100,83,0,Big day on the water: 25 kg of fish from the outrigger.
+579,2028-06-01,clear,23.0,76,30.7,8.7,17.2,100,59.1,94,171,417,100,83,0,Big day on the water: 23 kg of fish from the outrigger.
+580,2028-06-02,clear,19.5,61,22.0,8.6,16.7,100,60.6,94,171,418,100,83,0,"A quiet day. 20 kg fish, 61 coconuts gathered."
+581,2028-06-03,clear,24.0,52,32.3,9.1,17.3,100,61.8,94,171,418,100,87,0,Nia turned 33. Elena baked coconut cake on a hot stone.
+582,2028-06-04,cloudy,26.6,0,0.0,0.0,17.0,100,61.2,94,171,421,100,86,0,Big day on the water: 27 kg of fish from the outrigger.
+583,2028-06-05,clear,19.2,65,25.9,7.4,15.1,100,62.6,94,171,422,100,86,0,"A quiet day. 19 kg fish, 65 coconuts gathered."
+584,2028-06-06,cloudy,22.8,64,28.6,7.6,16.7,100,64.1,94,171,425,100,86,0,Big day on the water: 23 kg of fish from the outrigger.
+585,2028-06-07,clear,19.1,66,24.6,11.8,15.1,100,65.6,94,171,427,100,86,0,"A quiet day. 19 kg fish, 66 coconuts gathered."
+586,2028-06-08,cloudy,18.2,71,25.6,6.9,16.9,100,67.1,94,171,429,100,86,0,"A quiet day. 18 kg fish, 71 coconuts gathered."
+587,2028-06-09,clear,21.5,61,26.5,10.0,15.3,100,68.4,94,171,431,100,85,0,"A quiet day. 22 kg fish, 61 coconuts gathered."
+588,2028-06-10,clear,23.9,95,37.5,9.1,16.6,100,70.5,94,171,434,100,85,0,Big day on the water: 24 kg of fish from the outrigger.
+589,2028-06-11,clear,14.0,0,0.0,0.0,16.0,100,69.3,94,171,437,100,85,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+590,2028-06-12,clear,19.9,56,31.7,11.0,15.5,100,70.5,94,171,438,100,84,0,"A quiet day. 20 kg fish, 56 coconuts gathered."
+591,2028-06-13,clear,17.5,93,47.7,12.4,17.3,100,72.6,94,171,440,100,84,0,"A quiet day. 18 kg fish, 93 coconuts gathered."
+592,2028-06-14,clear,21.4,35,10.3,4.0,14.3,100,72.8,94,171,442,99,83,1,Priya is laid up with a stomach bug.
+593,2028-06-15,clear,19.8,54,32.6,9.1,17.1,100,73.9,94,171,445,99,83,0,Priya is back on her feet.
+594,2028-06-16,rain,22.2,61,28.0,9.5,13.5,100,75.1,94,171,447,99,83,0,Big day on the water: 22 kg of fish from the outrigger.
+595,2028-06-17,clear,20.7,23,10.5,4.5,15.5,100,75.0,94,171,449,99,83,1,Sam is laid up with a fever.
+596,2028-06-18,cloudy,13.4,0,0.0,0.0,14.0,100,73.7,94,171,449,99,83,1,"Sunday. Walt's garden tour, then a nap in the shade."
+597,2028-06-19,clear,18.8,53,28.1,9.8,15.4,100,74.7,94,171,449,99,83,1,"A quiet day. 19 kg fish, 53 coconuts gathered."
+598,2028-06-20,cloudy,13.3,30,9.8,1.7,14.5,100,74.5,94,171,450,98,83,1,"A quiet day. 13 kg fish, 30 coconuts gathered."
+599,2028-06-21,clear,14.5,56,27.2,7.1,17.0,100,75.5,94,171,451,99,83,0,Sam is back on his feet.
+600,2028-06-22,clear,22.8,65,27.9,8.8,17.3,100,76.8,94,171,452,99,82,0,Big day on the water: 23 kg of fish from the outrigger.
+601,2028-06-23,clear,14.1,55,26.5,5.9,15.6,100,77.7,94,171,453,99,83,0,"A quiet day. 14 kg fish, 55 coconuts gathered."
+602,2028-06-24,clear,19.8,28,12.1,3.8,14.9,100,77.7,94,171,455,98,82,1,Elena caught a stomach bug. Hana is cooking (badly).
+603,2028-06-25,cloudy,17.5,0,0.0,0.0,15.8,100,76.6,94,171,455,98,82,1,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+604,2028-06-26,clear,27.7,54,17.1,7.3,17.4,100,77.6,94,171,455,98,83,1,Big day on the water: 28 kg of fish from the outrigger.
+605,2028-06-27,cloudy,12.3,44,17.7,4.3,16.2,100,77.9,94,171,455,97,82,1,"A quiet day. 12 kg fish, 44 coconuts gathered."
+606,2028-06-28,cloudy,18.9,68,34.0,10.3,16.7,100,79.3,94,171,456,98,82,0,Elena is back on her feet.
+607,2028-06-29,rain,14.7,41,16.9,6.3,12.7,100,79.5,94,171,457,98,82,0,"A quiet day. 15 kg fish, 41 coconuts gathered."
+608,2028-06-30,cloudy,19.4,63,26.3,7.4,17.8,100,80.7,94,171,460,98,82,0,"A quiet day. 19 kg fish, 63 coconuts gathered."
+609,2028-07-01,cloudy,21.2,81,39.8,11.3,14.5,100,82.3,94,171,460,98,82,0,"A quiet day. 21 kg fish, 81 coconuts gathered."
+610,2028-07-02,rain,19.2,0,0.0,0.0,12.8,100,81.0,94,171,461,97,82,1,Walt is laid up with a stomach bug.
+611,2028-07-03,rain,13.1,36,16.1,4.0,11.2,100,80.9,94,171,462,97,82,1,"A quiet day. 13 kg fish, 36 coconuts gathered."
+612,2028-07-04,clear,15.6,81,30.6,13.6,17.5,100,82.6,94,171,462,97,82,0,Walt is back on his feet.
+613,2028-07-05,cloudy,15.6,46,28.6,6.8,16.2,100,83.3,94,171,463,98,81,0,"A quiet day. 16 kg fish, 46 coconuts gathered."
+614,2028-07-06,clear,17.6,55,24.0,8.3,16.8,100,84.2,94,171,463,98,81,0,"A quiet day. 18 kg fish, 55 coconuts gathered."
+615,2028-07-07,cloudy,22.8,59,33.5,7.4,15.5,100,85.2,94,171,464,98,85,0,Elena turned 48. Elena baked coconut cake on a hot stone.
+616,2028-07-08,clear,22.0,52,30.4,8.2,14.8,100,85.9,94,171,465,98,85,0,Big day on the water: 22 kg of fish from the outrigger.
+617,2028-07-09,rain,8.7,0,0.0,0.0,10.7,100,84.2,94,171,465,98,85,0,"Sunday. No building today: fishing, swimming and a long supper."
+618,2028-07-10,clear,17.5,96,36.6,10.7,16.7,100,86.1,94,171,468,98,84,0,"A quiet day. 18 kg fish, 96 coconuts gathered."
+619,2028-07-11,cloudy,26.8,58,29.2,5.4,13.2,100,86.9,94,171,469,98,84,0,Big day on the water: 27 kg of fish from the outrigger.
+620,2028-07-12,clear,16.1,66,28.8,8.0,14.7,100,88.0,94,171,470,98,84,0,"A quiet day. 16 kg fish, 66 coconuts gathered."
+621,2028-07-13,clear,16.3,67,26.9,9.1,18.8,100,89.2,94,171,472,98,84,0,"A quiet day. 16 kg fish, 67 coconuts gathered."
+622,2028-07-14,clear,19.5,49,27.8,8.0,17.3,100,89.9,94,171,474,98,84,0,"A quiet day. 20 kg fish, 49 coconuts gathered."
+623,2028-07-15,clear,21.8,59,25.8,9.1,15.8,100,90.8,94,171,475,98,83,0,"A quiet day. 22 kg fish, 59 coconuts gathered."
+624,2028-07-16,cloudy,16.8,0,0.0,0.0,16.7,100,89.4,94,171,477,99,84,0,"Sunday. Walt's garden tour, then a nap in the shade."
+625,2028-07-17,rain,12.5,42,20.8,5.7,12.4,100,89.6,94,171,478,99,84,0,"A quiet day. 12 kg fish, 42 coconuts gathered."
+626,2028-07-18,cloudy,24.2,52,29.3,9.6,15.1,100,90.3,94,171,478,99,83,0,Big day on the water: 24 kg of fish from the outrigger.
+627,2028-07-19,rain,19.0,48,20.5,5.9,14.6,100,90.9,94,171,479,99,83,0,Rain all day. The cistern is full.
+628,2028-07-20,clear,21.1,62,22.7,9.1,16.1,100,91.9,94,171,480,99,83,0,"A quiet day. 21 kg fish, 62 coconuts gathered."
+629,2028-07-21,clear,16.7,59,30.8,7.3,15.4,100,92.7,94,171,481,99,83,0,"A quiet day. 17 kg fish, 59 coconuts gathered."
+630,2028-07-22,cloudy,11.9,83,36.0,13.1,14.3,100,94.2,94,171,482,99,83,0,"A quiet day. 12 kg fish, 83 coconuts gathered."
+631,2028-07-23,clear,19.9,0,0.0,0.0,16.6,100,92.9,94,171,485,99,83,0,"Sunday. Walt's garden tour, then a nap in the shade."
+632,2028-07-24,clear,22.4,64,29.5,8.4,17.8,100,93.9,94,171,487,99,83,0,Big day on the water: 22 kg of fish from the outrigger.
+633,2028-07-25,clear,13.4,81,45.4,10.2,18.5,100,95.3,94,171,487,99,83,0,"A quiet day. 13 kg fish, 81 coconuts gathered."
+634,2028-07-26,rain,17.1,45,19.4,5.2,11.8,100,95.5,94,171,489,99,82,0,"A quiet day. 17 kg fish, 45 coconuts gathered."
+635,2028-07-27,clear,20.4,70,25.7,7.1,15.4,100,96.6,94,171,489,99,83,0,"A quiet day. 20 kg fish, 70 coconuts gathered."
+636,2028-07-28,clear,17.4,79,41.4,10.0,14.6,100,97.9,94,171,491,99,83,0,"A quiet day. 17 kg fish, 79 coconuts gathered."
+637,2028-07-29,rain,12.2,41,20.5,4.7,12.9,100,97.8,94,171,492,99,82,0,"A quiet day. 12 kg fish, 41 coconuts gathered."
+638,2028-07-30,cloudy,14.7,0,0.0,0.0,17.8,100,96.3,94,171,493,99,83,0,Sunday rest. June held class on the beach; Kofi taught knots.
+639,2028-07-31,cloudy,17.9,90,35.2,10.0,16.0,100,97.9,94,171,494,99,83,0,"A quiet day. 18 kg fish, 90 coconuts gathered."
+640,2028-08-01,cloudy,17.6,57,32.3,5.8,17.4,100,98.6,94,171,495,99,82,0,"A quiet day. 18 kg fish, 57 coconuts gathered."
+641,2028-08-02,clear,24.8,62,26.4,7.2,15.2,100,99.4,94,171,497,99,83,0,Big day on the water: 25 kg of fish from the outrigger.
+642,2028-08-03,clear,18.9,99,36.5,14.1,16.7,100,101.2,94,171,499,99,82,0,"A quiet day. 19 kg fish, 99 coconuts gathered."
+643,2028-08-04,cloudy,41.0,69,28.3,10.4,19.6,100,102.3,94,171,500,99,82,0,Big day on the water: 41 kg of fish from the outrigger.
+644,2028-08-05,cloudy,23.8,69,26.4,6.3,16.7,100,103.2,94,171,501,100,82,0,Big day on the water: 24 kg of fish from the outrigger.
+645,2028-08-06,cloudy,21.9,0,0.0,0.0,18.4,100,101.9,94,171,502,100,82,0,Sunday rest. June held class on the beach; Kofi taught knots.
+646,2028-08-07,cloudy,20.8,53,32.0,8.8,16.1,100,102.5,94,171,504,100,82,0,"A quiet day. 21 kg fish, 53 coconuts gathered."
+647,2028-08-08,clear,20.1,55,22.7,9.2,18.2,100,103.2,94,171,506,100,82,0,"A quiet day. 20 kg fish, 55 coconuts gathered."
+648,2028-08-09,cloudy,14.6,85,49.4,11.0,16.3,100,104.6,94,171,507,100,82,0,"A quiet day. 15 kg fish, 85 coconuts gathered."
+649,2028-08-10,cloudy,16.9,73,31.3,6.9,16.6,100,105.6,94,171,509,100,82,0,"A quiet day. 17 kg fish, 73 coconuts gathered."
+650,2028-08-11,clear,19.9,66,34.8,9.7,14.5,100,106.4,94,171,511,100,82,0,"A quiet day. 20 kg fish, 66 coconuts gathered."
+651,2028-08-12,rain,19.8,67,29.1,6.0,13.7,100,107.2,94,171,514,100,86,0,Priya turned 37. Elena baked coconut cake on a hot stone.
+652,2028-08-13,cloudy,11.4,0,0.0,0.0,15.8,100,105.3,94,171,516,100,85,0,"Sunday. No building today: fishing, swimming and a long supper."
+653,2028-08-14,clear,16.4,59,31.1,8.0,18.1,100,106.1,94,171,518,100,85,0,"A quiet day. 16 kg fish, 59 coconuts gathered."
+654,2028-08-15,clear,22.2,85,42.1,11.0,13.2,100,107.3,94,171,521,100,85,0,Big day on the water: 22 kg of fish from the outrigger.
+655,2028-08-16,rain,16.1,47,17.8,5.6,13.3,100,107.4,94,171,524,100,84,0,"A quiet day. 16 kg fish, 47 coconuts gathered."
+656,2028-08-17,clear,21.6,59,33.5,7.1,18.0,100,108.1,94,171,525,100,84,0,"A quiet day. 22 kg fish, 59 coconuts gathered."
+657,2028-08-18,clear,18.5,95,33.7,14.9,17.5,100,109.7,94,171,526,100,83,0,"A quiet day. 18 kg fish, 95 coconuts gathered."
+658,2028-08-19,clear,22.6,56,22.7,8.2,14.4,100,110.2,94,171,529,100,83,0,Big day on the water: 23 kg of fish from the outrigger.
+659,2028-08-20,clear,18.9,0,0.0,0.0,16.2,100,108.6,94,171,532,100,83,0,Sunday rest. June held class on the beach; Kofi taught knots.
+660,2028-08-21,rain,15.6,52,23.7,9.2,13.1,100,109.1,94,171,533,100,83,0,Rain all day. The cistern is full.
+661,2028-08-22,clear,19.4,67,27.4,7.5,13.4,100,109.8,94,171,536,100,82,0,"A quiet day. 19 kg fish, 67 coconuts gathered."
+662,2028-08-23,clear,19.6,63,32.2,8.9,14.7,100,110.5,94,171,536,100,82,0,"A quiet day. 20 kg fish, 63 coconuts gathered."
+663,2028-08-24,clear,16.7,76,35.5,10.9,15.6,100,111.6,94,171,537,100,82,0,"A quiet day. 17 kg fish, 76 coconuts gathered."
+664,2028-08-25,clear,19.5,77,31.3,5.8,18.2,100,112.5,94,171,539,100,82,0,"A quiet day. 20 kg fish, 77 coconuts gathered."
+665,2028-08-26,rain,14.6,51,19.0,4.5,14.7,100,112.6,94,171,541,100,82,0,"A quiet day. 15 kg fish, 51 coconuts gathered."
+666,2028-08-27,clear,15.2,0,0.0,0.0,14.9,100,110.8,94,171,542,100,82,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+667,2028-08-28,rain,19.0,49,18.4,4.5,11.6,100,110.9,94,171,544,100,82,0,"A quiet day. 19 kg fish, 49 coconuts gathered."
+668,2028-08-29,cloudy,22.2,56,28.0,8.4,14.1,100,111.4,94,171,547,100,82,0,Big day on the water: 22 kg of fish from the outrigger.
+669,2028-08-30,clear,16.8,78,42.4,11.2,17.9,100,112.5,94,171,549,100,82,0,"A quiet day. 17 kg fish, 78 coconuts gathered."
+670,2028-08-31,clear,20.3,62,27.9,5.7,16.9,100,113.2,94,171,550,100,82,0,"A quiet day. 20 kg fish, 62 coconuts gathered."
+671,2028-09-01,clear,14.8,53,15.3,8.7,17.3,100,113.4,94,171,553,100,81,0,"A quiet day. 15 kg fish, 53 coconuts gathered."
+672,2028-09-02,clear,15.6,68,24.5,10.5,17.5,100,114.3,94,171,554,100,81,0,"A quiet day. 16 kg fish, 68 coconuts gathered."
+673,2028-09-03,clear,11.9,0,0.0,0.0,16.8,100,112.4,94,171,557,100,81,0,"Sunday. Walt's garden tour, then a nap in the shade."
+674,2028-09-04,clear,19.2,62,21.6,6.9,16.6,100,113.0,94,171,559,100,81,0,"A quiet day. 19 kg fish, 62 coconuts gathered."
+675,2028-09-05,clear,14.4,87,31.4,14.1,15.2,100,114.4,94,171,560,100,81,0,"A quiet day. 14 kg fish, 87 coconuts gathered."
+676,2028-09-06,clear,14.2,66,19.0,7.4,17.0,100,114.9,94,171,561,100,81,0,"A quiet day. 14 kg fish, 66 coconuts gathered."
+677,2028-09-07,clear,16.5,60,16.8,8.8,15.8,100,115.4,94,171,561,100,81,0,"A quiet day. 16 kg fish, 60 coconuts gathered."
+678,2028-09-08,rain,14.4,61,17.5,8.4,14.0,100,115.7,94,171,564,100,81,0,"A quiet day. 14 kg fish, 61 coconuts gathered."
+679,2028-09-09,rain,16.9,42,18.3,4.9,13.5,100,115.5,94,171,565,100,81,0,"A quiet day. 17 kg fish, 42 coconuts gathered."
+680,2028-09-10,rain,13.8,0,0.0,0.0,13.1,100,113.6,94,171,568,100,81,0,"Sunday. Walt's garden tour, then a nap in the shade."
+681,2028-09-11,rain,16.6,60,19.6,6.2,14.2,100,114.0,94,171,569,100,81,0,"A quiet day. 17 kg fish, 60 coconuts gathered."
+682,2028-09-12,clear,21.2,52,20.9,9.8,17.3,100,114.5,94,171,570,100,81,0,"A quiet day. 21 kg fish, 52 coconuts gathered."
+683,2028-09-13,cloudy,24.2,56,17.6,8.2,16.3,100,115.0,94,171,572,100,81,0,Big day on the water: 24 kg of fish from the outrigger.
+684,2028-09-14,rain,12.9,46,14.1,6.8,12.5,100,114.7,94,171,573,100,81,0,"A quiet day. 13 kg fish, 46 coconuts gathered."
+685,2028-09-15,clear,18.3,58,21.5,10.5,16.4,100,115.3,94,171,575,100,81,0,"A quiet day. 18 kg fish, 58 coconuts gathered."
+686,2028-09-16,storm,0.0,0,0.0,0.0,9.6,100,112.8,94,171,575,100,80,0,A squall tore through camp overnight. Repairs needed.
+687,2028-09-17,cloudy,15.8,0,0.0,0.0,15.9,100,111.1,94,171,576,100,81,0,Sunday rest. June held class on the beach; Kofi taught knots.
+688,2028-09-18,cloudy,13.6,0,0.0,0.0,13.5,100,109.2,93,171,577,100,81,0,Repairs finished on the palm-frond lean-to.
+689,2028-09-19,cloudy,21.3,0,0.0,0.0,15.2,100,107.8,90,171,578,100,81,0,Repairs finished on the sleeping hut 1.
+690,2028-09-20,clear,17.9,0,0.0,0.0,16.9,100,106.2,88,171,578,100,81,0,Repairs finished on the bamboo aqueduct and cistern.
+691,2028-09-21,clear,16.0,0,0.0,0.0,15.5,100,104.6,87,171,579,100,85,0,Tomas turned 44. Elena baked coconut cake on a hot stone.
+692,2028-09-22,clear,15.9,0,0.0,0.0,15.6,100,103.0,87,171,579,100,85,0,Repairs finished on the shade house and classroom.
+693,2028-09-23,clear,14.0,0,0.0,0.0,15.9,100,101.4,84,171,580,100,84,0,Repairs finished on the memorial garden and bell.
+694,2028-09-24,clear,16.7,0,0.0,0.0,17.1,100,100.0,84,171,582,100,84,0,Day of rest. Cards made from palm bark; Marcus is unbeatable.
+695,2028-09-25,cloudy,14.1,60,20.0,8.8,15.4,100,100.7,84,171,582,100,84,0,"A quiet day. 14 kg fish, 60 coconuts gathered."
+696,2028-09-26,clear,17.0,75,33.4,10.7,15.7,100,101.9,84,171,583,100,84,0,"A quiet day. 17 kg fish, 75 coconuts gathered."
+697,2028-09-27,clear,14.6,49,22.3,8.6,14.8,100,102.4,84,171,585,100,83,0,"A quiet day. 15 kg fish, 49 coconuts gathered."
+698,2028-09-28,cloudy,17.6,67,22.7,7.6,15.2,100,103.3,84,171,588,100,83,0,"A quiet day. 18 kg fish, 67 coconuts gathered."
+699,2028-09-29,clear,18.3,93,28.1,10.2,14.8,100,104.9,84,171,590,100,83,0,"A quiet day. 18 kg fish, 93 coconuts gathered."
+700,2028-09-30,clear,17.6,57,17.3,7.7,15.3,100,105.4,84,171,591,100,86,0,Thirty days to the two-year mark. The outrigger sails well.
+701,2028-10-01,clear,13.4,0,0.0,0.0,14.6,100,103.7,84,171,592,100,86,0,"Sunday. No building today: fishing, swimming and a long supper."
+702,2028-10-02,clear,23.7,61,22.9,8.9,18.7,100,104.6,84,171,593,100,89,0,June turned 46. Elena baked coconut cake on a hot stone.
+703,2028-10-03,clear,21.4,58,20.0,5.6,16.7,100,105.3,84,171,595,100,88,0,"A quiet day. 21 kg fish, 58 coconuts gathered."
+704,2028-10-04,cloudy,20.0,66,19.6,7.1,17.4,100,106.2,84,171,597,100,88,0,"A quiet day. 20 kg fish, 66 coconuts gathered."
+705,2028-10-05,clear,18.1,89,30.7,12.3,14.6,100,107.6,84,171,598,100,87,0,"A quiet day. 18 kg fish, 89 coconuts gathered."
+706,2028-10-06,rain,16.6,38,15.4,7.0,13.7,100,107.5,84,171,601,100,87,0,"A quiet day. 17 kg fish, 38 coconuts gathered."
+707,2028-10-07,clear,17.2,63,23.3,6.8,14.9,100,108.3,84,171,602,100,86,0,"A quiet day. 17 kg fish, 63 coconuts gathered."
+708,2028-10-08,clear,18.1,0,0.0,0.0,15.0,100,106.7,84,171,602,100,86,0,"Sunday. Walt's garden tour, then a nap in the shade."
+709,2028-10-09,clear,21.0,52,20.2,8.7,13.6,100,107.2,84,171,602,100,86,0,"A quiet day. 21 kg fish, 52 coconuts gathered."
+710,2028-10-10,clear,27.8,63,18.2,10.4,15.3,100,108.0,84,171,603,100,86,0,Big day on the water: 28 kg of fish from the outrigger.
+711,2028-10-11,rain,17.8,41,16.6,5.1,12.5,100,108.0,84,171,603,100,86,0,"A quiet day. 18 kg fish, 41 coconuts gathered."
+712,2028-10-12,clear,17.6,70,18.9,5.5,18.2,100,108.8,84,171,603,100,85,0,"A quiet day. 18 kg fish, 70 coconuts gathered."
+713,2028-10-13,clear,14.0,62,26.8,8.7,14.1,100,109.5,84,171,606,100,85,0,"A quiet day. 14 kg fish, 62 coconuts gathered."
+714,2028-10-14,cloudy,18.0,78,24.9,8.6,18.3,100,110.7,84,171,609,100,84,0,"A quiet day. 18 kg fish, 78 coconuts gathered."
+715,2028-10-15,cloudy,14.6,0,0.0,0.0,14.5,100,108.9,84,171,609,100,84,0,"Sunday. No building today: fishing, swimming and a long supper."
+716,2028-10-16,clear,15.9,73,20.4,8.5,15.3,100,109.8,84,171,612,100,84,0,"A quiet day. 16 kg fish, 73 coconuts gathered."
+717,2028-10-17,clear,18.0,92,28.2,11.7,15.0,100,111.3,84,171,613,100,84,0,"A quiet day. 18 kg fish, 92 coconuts gathered."
+718,2028-10-18,clear,21.8,69,19.6,8.0,16.4,100,112.2,84,171,615,100,84,0,"A quiet day. 22 kg fish, 69 coconuts gathered."
+719,2028-10-19,cloudy,14.9,50,24.2,9.3,17.0,100,112.6,84,171,615,100,84,0,"A quiet day. 15 kg fish, 50 coconuts gathered."
+720,2028-10-20,clear,13.5,79,24.8,9.0,16.4,100,113.7,84,171,615,100,84,0,"A quiet day. 14 kg fish, 79 coconuts gathered."
+721,2028-10-21,clear,21.3,61,21.9,7.6,15.3,100,114.3,84,171,616,100,84,0,"A quiet day. 21 kg fish, 61 coconuts gathered."
+722,2028-10-22,cloudy,19.8,0,0.0,0.0,15.0,100,112.7,84,171,619,100,84,0,"Sunday. Walt's garden tour, then a nap in the shade."
+723,2028-10-23,clear,16.0,64,23.0,6.3,19.1,100,113.4,84,171,619,100,84,0,"A quiet day. 16 kg fish, 64 coconuts gathered."
+724,2028-10-24,rain,12.0,39,14.9,5.7,12.8,100,113.0,84,171,620,100,84,0,"A quiet day. 12 kg fish, 39 coconuts gathered."
+725,2028-10-25,rain,15.1,39,16.3,5.1,13.8,100,112.8,84,171,623,100,84,0,"A quiet day. 15 kg fish, 39 coconuts gathered."
+726,2028-10-26,cloudy,17.0,70,23.5,8.3,17.3,100,113.6,84,171,624,99,83,1,Walt is laid up with a fever.
+727,2028-10-27,cloudy,16.3,43,17.1,5.6,15.9,100,113.6,84,171,624,99,83,1,"A quiet day. 16 kg fish, 43 coconuts gathered."
+728,2028-10-28,clear,23.3,47,14.5,6.6,16.0,100,113.9,84,171,624,99,100,1,A survey plane flew low over the island at midday and circled the SOS twice.
+729,2028-10-29,clear,12.0,0,0.0,0.0,16.3,100,112.1,84,171,624,99,100,1,The plane came back and dropped a radio. A ship is on its way.
+730,2028-10-30,clear,21.1,29,7.7,4.9,18.2,100,111.7,84,171,627,99,100,1,Day 730. Ship lights in the lagoon at dusk. Rescue.
