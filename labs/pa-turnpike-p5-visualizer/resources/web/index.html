@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PA Turnpike Visualizer</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 16 16%22%3E%3Crect width=%2216%22 height=%2216%22 rx=%223%22 fill=%22%2312324f%22/%3E%3Crect x=%222%22 y=%227%22 width=%2212%22 height=%222%22 fill=%22%23f2c230%22/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+  <!-- p5.js is bundled with the project (resources/web/p5.min.js) so it works offline. -->
+  <script src="p5.min.js"></script>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Pennsylvania Turnpike Toll Simulation</h1>
+      <p class="sub">Java threads + FIFO booth queues + a LIFO transaction stack, drawn live with p5.js</p>
+    </div>
+    <div class="controls">
+      <label>Cars <input id="cars" type="number" min="3" max="500" value="100"></label>
+      <label>Traffic
+        <select id="traffic">
+          <option value="rush" selected>Rush hour (queues form)</option>
+          <option value="normal">Normal (original timing)</option>
+        </select>
+      </label>
+      <button id="run" class="primary">&#9654; Run</button>
+      <button id="stop">&#9632; Stop</button>
+      <button id="reset">&#8634; Reset</button>
+      <span id="state" class="pill">IDLE</span>
+    </div>
+  </header>
+
+  <main>
+    <section class="stage">
+      <div id="canvas-holder"></div>
+      <div class="legend">
+        <span><i class="sw ez"></i>E-ZPass</span>
+        <span><i class="sw tbp"></i>Toll-by-Plate</span>
+        <span><i class="sw booth"></i>Car in booth</span>
+        <span>Top lane: eastbound &rarr; &nbsp; Bottom lane: &larr; westbound</span>
+        <span>Stacked cars under a booth = FIFO queue (front is closest)</span>
+      </div>
+    </section>
+
+    <section class="cards" id="cards"></section>
+
+    <section class="panels">
+      <div class="panel">
+        <h2>Toll plazas</h2>
+        <table>
+          <thead>
+            <tr><th>Plaza</th><th>MP</th><th>Queue</th><th>Processed</th><th>Exited</th><th>Tolls</th></tr>
+          </thead>
+          <tbody id="plaza-rows"></tbody>
+        </table>
+      </div>
+      <div class="panel">
+        <h2>Transaction stack <small>(LIFO &mdash; newest on top)</small></h2>
+        <ol id="stack" class="stack"></ol>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    Mileposts are approximate and tolls are illustrative (from <code>TollBoothOperatorThread.calculateToll</code>), not official PA Turnpike data.
+  </footer>
+  <script src="sketch.js"></script>
+</body>
+</html>
